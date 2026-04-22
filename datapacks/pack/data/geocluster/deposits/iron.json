@@ -1,0 +1,35 @@
+{
+  "type": "geocluster:deposit_dike",
+  "config": {
+    "yMin": 32,
+    "yMax": 60,
+    "baseRadius": 16,
+    "maxHeight": 32,
+    "biomeTag": "#c:is_mountain",
+    "blocks": {
+      "default": [
+        {
+          "block": "iron_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "andesite",
+          "chance": 0.4
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "deepslate_iron_ore",
+          "chance": 1.0
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:iron_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 2
+  }
+}

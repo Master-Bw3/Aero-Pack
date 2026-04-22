@@ -1,0 +1,25 @@
+{
+  "type": "geocluster:deposit_layer",
+  "config": {
+    "yMin": -40,
+    "yMax": 120,
+    "radius": 10,
+    "depth": 12,
+    "biomeTag": "#c:is_mountain",
+    "blocks": {
+      "default": [
+        {
+          "block": "tfmg:bauxite",
+          "chance": 1
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:aluminium_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 3
+  }
+}

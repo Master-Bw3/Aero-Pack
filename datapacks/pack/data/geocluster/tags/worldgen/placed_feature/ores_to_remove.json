@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+   "tfmg:lead_ore",
+   "tfmg:lithium_ore",
+   "tfmg:nickel_ore",
+   "tfmg:tfmg_striated_ores_nether",
+   "tfmg:tfmg_striated_ores_overworld",
+   "create:zinc_ore",
+   "occultism:ore_silver",
+   "occultism:ore_silver_deepslate"
+  ]
+}

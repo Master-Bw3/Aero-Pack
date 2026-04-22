@@ -1,0 +1,43 @@
+{
+  "type": "geocluster:deposit_layer",
+  "config": {
+    "yMin": -40,
+    "yMax": 120,
+    "radius": 10,
+    "depth": 12,
+    "biomeTag": "#c:is_mountain",
+    "blocks": {
+      "default": [
+        {
+          "block": "coal_ore",
+          "chance": 0.85
+        },       
+        {
+          "block": null,
+          "chance": 0.15
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "deepslate_coal_ore",
+          "chance": 0.75
+        },
+        {
+          "block": "spectrum:blackslag_coal_ore",
+          "chance": 0.10
+        },
+        {
+          "block": null,
+          "chance": 0.15
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:coal_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "geocluster:deposit_sparse",
+  "config": {
+    "yMin": -16,
+    "yMax": 32,
+    "size": 24,
+    "spread": 24,
+    "biomeTag": "#c:is_river",
+    "blocks": {
+      "default": [
+        {
+          "block": "tfmg:lithium_ore",
+          "chance": 0.8
+        },
+        {
+          "block": "gold_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "tfmg:deepslate_lithium_ore",
+          "chance": 0.8
+        },
+        {
+          "block": "deepslate_gold_ore",
+          "chance": 0.2
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geocluster:lead_ore_sample",
+        "chance": 0.5
+      },
+      {
+        "block": "geocluster:silver_ore_sample",
+        "chance": 0.5
+      }
+    ],
+    "generationWeight": 1
+  }
+}
