@@ -1,0 +1,13 @@
+name = "Immersive Enchanting"
+filename = "immersiveenchanting-4.0.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DfWQAvS4/versions/VCPTRR3l/immersiveenchanting-4.0.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "e6c50cba6e23532fc484880866c740351dd9bfa73275e18daac5756355c7c268d9871f495745c891009e74264bab856a4d2231f53be81bf7092f707248d2b277"
+
+[update]
+[update.modrinth]
+mod-id = "DfWQAvS4"
+version = "VCPTRR3l"

@@ -1,0 +1,13 @@
+name = "Tiny Dragons"
+filename = "rpg_companions_tiny_dragons-0.0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XzVY6HIJ/versions/9mu05OaX/rpg_companions_tiny_dragons-0.0.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "a9d7459f8e0a9b120fbce107d3e4093361ae471540dc27532f36cba9b93cd2f02efa1931ffa72408133f5041ed1fc95699c57891046a4cc73ac420f91e44e5e0"
+
+[update]
+[update.modrinth]
+mod-id = "XzVY6HIJ"
+version = "9mu05OaX"
