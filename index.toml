@@ -279,8 +279,23 @@ hash = "8d7b54614f4aa33c4d89e11ed0ec434095e66c80c9557b4e91311ee684227ade"
 metafile = true
 
 [[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "39c7121302c1a21c0db0080a3abffd379af36930465fcbe4bd6682881c1d8203"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/betternether-neoforge.pw.toml"
+hash = "43134a3540381f63a02cb99d3019283d4a1f5b6b91f54b66eaa8d869bfa7a71b"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
 
 [[files]]
@@ -464,11 +479,6 @@ hash = "a1fb429a5c382822c013719d6fecfb2e23b91d924082114cd10c3385ed505dd2"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
-metafile = true
-
-[[files]]
 file = "mods/flowing-fluids.pw.toml"
 hash = "7d0734492143f79a757df97c4af02d3af7a690734d4b4b336a3671bfb5805f44"
 metafile = true
@@ -516,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-enchanting.pw.toml"
 hash = "c0cad9e7d161f5208c3f2fc69a42d98f999c46295cb75434321fdb57ff4becb3"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
 
 [[files]]
@@ -579,6 +594,16 @@ hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
+file = "mods/nether-depths-upgrade.pw.toml"
+hash = "2104f30f90dbd5ff5eae8295f71f47227c9b1c96b4b5bb2ae196cd67d11e138a"
+metafile = true
+
+[[files]]
+file = "mods/nethers-exoticism.pw.toml"
+hash = "8f065de8a14d77fd909cb7bbc01a7e98419c61d9f7bb542844432442b4170f6a"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "3b147d756f0f7d9d4c129399033cd8145878cee01debb7ed1197dbc5133501b2"
 metafile = true
@@ -616,6 +641,11 @@ metafile = true
 [[files]]
 file = "mods/reactive.pw.toml"
 hash = "88ed3ad28743cb00c0070b7579eedf9d9309d4f63be4886cb48260115e289512"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
 
 [[files]]
@@ -744,6 +774,36 @@ hash = "fc84548addfafabdc70c6d79a555f96bfb05016f1db9f8854ce0bfa95f61a561"
 metafile = true
 
 [[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "1143cc779a00f8f4a582a6f11118de79afd4e089292fb712433f0af9fc0a8562"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "be9540e46f1fb23ecc35d79b468480558924c518f759e46783f9d9de68b772f3"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
 metafile = true
