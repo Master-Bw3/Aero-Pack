@@ -602,12 +602,12 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+hash = "2f8ee157d70214426a3a0ac25b0ffdd0a33c0ac148eaec2fccdf2ce90c226b54"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
+hash = "d13a0d4656e471ee9bb69ebad9cfff7cedda681b52a7b2ef3cc9d06529287166"
 metafile = true
 
 [[files]]
@@ -617,17 +617,17 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "8e9b61ed721c95cf7fdca46979bb20fdb12aaecccccc92a7822e5ce7a6cbca19"
+hash = "509c8fef9e91da5abc8585f26c8bc52c4ceb2400752b70f76c1b66adde3db233"
 metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "c0d2cc47ae8e0a26ee066aaa1f112cd4d2ecb4a843de947996f85e4ad937d5d6"
+hash = "c22c78475e85428d15f97cb5041fe302b225e6599b06897a17051610b53e1a23"
 metafile = true
 
 [[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
-hash = "b7d2538e280bf4f16c4a737722880a1adbdc345b1d9fe4b38fff9cfc34b55cac"
+hash = "8af373c3df0a5561e90a600a7f02ee682805a2528605997bd4cf085914ba900a"
 metafile = true
 
 [[files]]
@@ -838,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "03d964cba45be30fbcbef52f89f3953185737f55c8934d12e199b67194c2b368"
 metafile = true
 
 [[files]]
