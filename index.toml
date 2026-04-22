@@ -13,6 +13,10 @@ file = "config/accessories.json5"
 hash = "d43f142d4d049abf573d0fa2319e8e222120ae8359ea17973fce682fe165b637"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "59f29799a17d578c3d8a5aa152c275cf4b0981281d6cec882b80561a33b59556"
+
+[[files]]
 file = "config/coldsweat/entity.toml"
 hash = "9306ed93c4bf6b077d0bdf22843de4a4dc64fb985966e419b72513956ff2c6c5"
 
@@ -213,6 +217,10 @@ file = "datapacks/pack/data/minecraft/recipe/shulker_box.json"
 hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
 
 [[files]]
+file = "datapacks/pack/data/occultism/recipe/ritual/craft_satchel.json"
+hash = "2aa9b98dada10cc8e73a2958221ed883e3d336e96abebb43cb82cc158167a91e"
+
+[[files]]
 file = "datapacks/pack/data/scout/recipe/upgraded_pouch.json"
 hash = "ec458ae1673da91d3ea37eeb03c7c1e03b26f8f5519c11a77665efda1955a96d"
 
@@ -241,6 +249,54 @@ file = "datapacks/pack/pack.png"
 hash = "01d50109f416233fc66de1895040f230a6daedfcf6b927216e4e0fda1d6e2474"
 
 [[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_error.png"
+hash = "39f3e2b1c46d2c8e2daf01cc0edc5d0d41e9dddb42e60ade51c51133dff0cfe0"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_error_hover.png"
+hash = "7acf58f8015a80b9339a373f5dbbdcc5be5c35bc6526c9da0a0e6c48f44e917f"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_full.png"
+hash = "cac071fd2e6c5cf0bb66e7270e01be21bc5ad593a6e5b861fbb67bf339658a84"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_full_hover.png"
+hash = "926ec94b85c64935c49c1d410f72e435a8e92088a68f4c0c8826529d9eaf47c3"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_ok.png"
+hash = "932115e2eda7292568c1b995d875fd78763a710826e9b354fa485950c1c8c91e"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_ok_hover.png"
+hash = "325b421cf4ce09fb7deaba860fb71b4478256106ed13547908799943887b7e10"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_partial.png"
+hash = "73570a780ffa2577f246d9ab625f944cd71442e56de14563eeb6272578eefdf7"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_partial_hover.png"
+hash = "2c8ae8020d59971a2b7fe58aac1d5e85e5ce8bc786bde82860263bca1bb78d02"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_suspended.png"
+hash = "3166192b524560c05ad73c404c28934c0945ffb8250151d54f97e0ba7cd5c809"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_suspended_hover.png"
+hash = "a13ac2ec52f4efa312a4c7c7cf2323454a29bbd1fb12896fb24a73a79a78e771"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/inactive.png"
+hash = "a0bdff4825a77f006e79a03a72faf86dd0b1c79c1904026d24990f935f520aa6"
+
+[[files]]
+file = "global_packs/required_resources/pack/pack.mcmeta"
+hash = "01af836e2d02ef7dd7155484d364ebca9012576cbb04a803444486253931953b"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -257,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/aero-pack-utils.pw.toml"
-hash = "4e477ab95dd7a8837821d2973249f61b1f1b89e98a5031ae5b2389c53dfe0a7b"
+hash = "8ba35cb14f94d713d189566947d33198b54cbab3f28f31d39310170f501d4136"
 metafile = true
 
 [[files]]
@@ -282,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -328,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "f17c5f3623ff4b54f316dd83af970df1f8447a286ffd5f3685efce3e9446e0ca"
 metafile = true
 
 [[files]]
@@ -516,6 +577,26 @@ hash = "36666fecb7dd9e60c7c968d4be5c64e82319f3e5c71356fbf0976998561e571e"
 metafile = true
 
 [[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7557cd72044ad985b08e452dba7461feb219469e2fea97ea32c6ecd8458b2fd8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
@@ -538,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/golem-overhaul.pw.toml"
 hash = "13e3a41ddb14bb60ba1b0ad687df8cd2b6d0f801f304eb5306e1e0d2d6482468"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
 metafile = true
 
 [[files]]
@@ -763,6 +849,16 @@ metafile = true
 [[files]]
 file = "mods/structurify.pw.toml"
 hash = "dc998dc760e44edef3c2f787affcfb3d15ae64add531bb1a97f29ee25560ce65"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
