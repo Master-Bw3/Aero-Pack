@@ -221,6 +221,11 @@ file = "datapacks/pack/pack.png"
 hash = "01d50109f416233fc66de1895040f230a6daedfcf6b927216e4e0fda1d6e2474"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -311,6 +316,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
 metafile = true
@@ -338,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "5c62ce70523d7af709be87c3ff8881fb125caf06eaa85d753deca751c5a2638a"
+metafile = true
+
+[[files]]
+file = "mods/construction-sticks.pw.toml"
+hash = "64ca3b36f97c2508f0d1846b385fcacc0d6f1cf6bc972521a5b3f282e1e8022b"
 metafile = true
 
 [[files]]
@@ -421,6 +436,16 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "bad7f04710ac39675ed22ba08bcabacc5d7fb7040bbdae22caaf278ae3bf2f2f"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
@@ -428,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/feur-extension-desert.pw.toml"
 hash = "a1fb429a5c382822c013719d6fecfb2e23b91d924082114cd10c3385ed505dd2"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
 metafile = true
 
 [[files]]
@@ -478,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-enchanting.pw.toml"
 hash = "c0cad9e7d161f5208c3f2fc69a42d98f999c46295cb75434321fdb57ff4becb3"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
 metafile = true
 
 [[files]]
