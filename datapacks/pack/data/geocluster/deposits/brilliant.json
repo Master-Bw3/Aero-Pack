@@ -9,7 +9,7 @@
     "blocks": {
       "default": [
         {
-          "block": "tfmg:lithium_ore",
+          "block": "malum:brilliant_ore",
           "chance": 0.5
         },
         {
@@ -19,7 +19,7 @@
       ],
       "minecraft:deepslate": [
         {
-          "block": "tfmg:deepslate_lithium_ore",
+          "block": "malum:deepslate_brilliant_ore",
           "chance": 0.5
         },
         {
@@ -30,10 +30,10 @@
     },
     "samples": [
       {
-        "block": "tfmg:lithium_ore",
+        "block": "malum:brilliant_ore",
         "chance": 1.0
       }
     ],
-    "generationWeight": 3
+    "generationWeight": 2
   }
 }

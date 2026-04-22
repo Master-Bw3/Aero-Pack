@@ -522,6 +522,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "e3211d7d54a7203a183ed3b453be5dd52d27f389dbef26dd7e769f20e1dea81f"
 metafile = true
@@ -532,8 +537,8 @@ hash = "78584c0d397dea71f0337854a7b1fd241c01ea3a5325fe490d01e37a49f98f3a"
 metafile = true
 
 [[files]]
-file = "mods/dhm.pw.toml"
-hash = "eb69d6ca900e7c41a7929fceae82800e16531a8678ff61fe3f55ce7697221262"
+file = "mods/dynamic-difficulty-mod.pw.toml"
+hash = "39d08b330d0447d3d3749954c3f58ad7d15e27a038d1bbea09b526634a4c49de"
 metafile = true
 
 [[files]]
@@ -639,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "3bf33cdda984b2275588cd1b3e0723e3ba2cc817db33d88ffa00c92063a23aa7"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "bf9baef8bb1145e580ae8ee57b285e22838e943c56a96ffb424fd02bf99c468e"
 metafile = true
 
 [[files]]
@@ -789,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
 hash = "e97960a5909e986c8f967fcaf155d961359cff8d25292025b326d792b2496371"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
@@ -944,11 +959,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
-metafile = true
-
-[[files]]
-file = "mods/yori3os-grappling-hooks.pw.toml"
-hash = "18b1e44c8b265fddc9f1da55c866f01afae93e3762e7020231c8ea6559866cf3"
 metafile = true
 
 [[files]]

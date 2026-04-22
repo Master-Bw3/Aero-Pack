@@ -3,24 +3,19 @@
   "config": {
     "yMin": 32,
     "yMax": 60,
-    "baseRadius": 16,
-    "maxHeight": 32,
-    "biomeTag": "#c:is_mountain",
+    "baseRadius": 8,
+    "maxHeight": 16,
+    "biomeTag": "#minecraft:is_overworld",
     "blocks": {
       "default": [
         {
-          "block": "iron_ore",
-          "chance": 0.6
-        },
-        {
-          "block": "andesite",
-          "chance": 0.4
-        
+          "block": "malum:soulstone_ore",
+          "chance": 1.0
         }
       ],
       "minecraft:deepslate": [
         {
-          "block": "deepslate_iron_ore",
+          "block": "malum:deepslate_soulstone_ore",
           "chance": 1.0
         }
       ]
@@ -31,6 +26,6 @@
         "chance": 1.0
       }
     ],
-    "generationWeight": 2
+    "generationWeight": 3
   }
 }

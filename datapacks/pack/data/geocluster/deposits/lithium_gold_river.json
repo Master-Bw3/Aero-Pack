@@ -30,11 +30,7 @@
     },
     "samples": [
       {
-        "block": "geocluster:lead_ore_sample",
-        "chance": 0.5
-      },
-      {
-        "block": "geocluster:silver_ore_sample",
+        "block": "geocluster:gold_ore_sample",
         "chance": 0.5
       }
     ],
