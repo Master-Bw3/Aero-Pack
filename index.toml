@@ -17,6 +17,218 @@ file = ".envrc"
 hash = "62fbcdefc5279c4af349ddf7770d4104d432e6faeff1afab121253bf8e36a677"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "d43f142d4d049abf573d0fa2319e8e222120ae8359ea17973fce682fe165b637"
+
+[[files]]
+file = "config/coldsweat/entity.toml"
+hash = "9306ed93c4bf6b077d0bdf22843de4a4dc64fb985966e419b72513956ff2c6c5"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "5b492196d6d7112e92c41ba5fc3374dde3e8fdcfcc3945abc680fccbc11635c1"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "4961397ba84f4ed820dd06fc50d449f14f9a8dca82db049236b0aee52f4d4446"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "55acc3f9efe75bbcbfbbb8e79976e723dea70691c11784ae3b472d62f70a9de5"
+
+[[files]]
+file = "config/geocluster.json"
+hash = "3c8b2dfab664a95d007f91f6c924e273838d3d4ef9b77b15d7cb9f6b5b820e20"
+
+[[files]]
+file = "config/icarus.jsonc"
+hash = "b5a074a39eb48a6f06ff830a3cee875d9bcdcbe66f5397a0d49d3705a00eb32e"
+
+[[files]]
+file = "config/structurify.json"
+hash = "691d2d1fb453365b04b9f9275e039d7abf52e7090efa1be50742e0f4c05d4260"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "3d5d2fb089ad3f44b5715f13c97f19ce67ac4f43dd80e8df73a26684c9e30e6e"
+
+[[files]]
+file = "datapacks/pack/data/aether/loot_table/chests/dungeon/gold/gold_dungeon_reward.json"
+hash = "aef6e2ac124ec54bf45c521b6aafa268921baf3a66e605ee695fa7059f2d5350"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/aluminium.json"
+hash = "f38c08e4fae0283d5349e3413ab41580e516291a73c267e44dcd6b218de51678"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/ancient_debris.json"
+hash = "eb9b2e55ea5d783fbd0bf678889c186b844ad6b003d6c083b65322f8acc5e3ce"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/coal.json"
+hash = "c45ecc1b6dcadcd99103a3325fb150f99f22227e15a9fa74a2b735e2a931c4ee"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/coal_extra.json"
+hash = "7dbc87ca7f7b7f7e1fb935f737c65c9b1e88ba938e7f45f1dccbd39840eba160"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/copper.json"
+hash = "b09f3657c30a515635c4882299eb75d70276beb60464c25b36fa0851e9da2d3c"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/diamond.json"
+hash = "fd7ff3a09cfe98c4850e33b35f2e272b434635ff61d2272129fadc60008b96bd"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/diamond_oasis.json"
+hash = "9ed7aeb24e0d35ba1cae6be07dcff81a53bc801af2f27c18b5f73125dd450fd1"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/emerald.json"
+hash = "26635231178bd0a9b85922622781b1450aef3717825e6d963a0c3a6bd253afd5"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/emerald_extra.json"
+hash = "8e1d794b49e35ea828279c6a8c95282bbb9a0787cf5c9385256c2cc9d17baeb7"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/gold.json"
+hash = "5134ddad6f2b94451192bafb49412948ad030980a0148b887829c88ed116013e"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/gold_nether.json"
+hash = "3199a33f22959c40d7a621e859ea239c58df156792e8e1284f61c390f5621b34"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/iron.json"
+hash = "b310a8f51fffb278e8b30ba090556c0b41cffcd514b6bccaad94eb4de8a338ea"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/iron_extra.json"
+hash = "0685740a0b38a520f9fa9bb1bb9fffc350c3d6116167b81b2a1424c1daed7f1e"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/iron_marchy.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/iron_nickel.json"
+hash = "3130e6185c0ad9330022a8a6476f916a633fc0c37290288fbffe819dee3d41fe"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/lapis.json"
+hash = "f308f9196b955a8a6c4063a6d8e3aa82ed61c60007c0a3466ce12e20af9ca93b"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/lead_silver.json"
+hash = "5e62d2b5c3bccdf9c7ebb247eae2b3399ee539cecc7a589ae8d3331e94fdd4f8"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/lithium.json"
+hash = "9b01ae15154fb60a1cd0ec300efb13bbf4c76188d169252ff3457021c66b8018"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/lithium_gold_river.json"
+hash = "649d0743f111a7a9f77a98e3cea41d6a5fb3a34e4d9fdc2d9e5b08838c035769"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/platinum.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/quartz.json"
+hash = "f4ce9c775b8d0fc2859984c200b9f42555471b8a63eac3c99bbe4a9c3ef829b6"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/quartz_nether.json"
+hash = "ca4bb32b715467b427773378f407a86b85671ef558aebfc97abea962bcd3dc87"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/redstone.json"
+hash = "47df135dfc535b862eff60d34ea82bc74956aecdf8bacce16567e18d33b9d4d1"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/tin.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/titanium.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/uranium.json"
+hash = "8e1d794b49e35ea828279c6a8c95282bbb9a0787cf5c9385256c2cc9d17baeb7"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/zinc.json"
+hash = "48e7f49a35bfbbdfa6a98629257ac5942f7a03172e8f5f3e394d362fc4f56202"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/loot_table/blocks/aluminium_ore_sample.json"
+hash = "51cc7154722b6ec782fddee3024ca16d942d045ff82ba50228137ced1b4ab121"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/loot_table/blocks/lead_ore_sample.json"
+hash = "47d7bdd9f409b3933205827c4a6a590742e5f24b804b69abba4e08be1749511a"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/loot_table/blocks/nickel_ore_sample.json"
+hash = "068c0e0372611dbc83f2c7679d04f039712fcdddf618b14175cafaa627ee5d7b"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/loot_table/blocks/silver_ore_sample.json"
+hash = "7ddfcc7e54ce260bb321208f037d0c265d12f05f72b77008e7f1496b1aba4281"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/loot_table/blocks/zinc_ore_sample.json"
+hash = "589e18a8b2098ca75a1a4d7eec3c5f3a5d882e9e36d91ab5e536334db3a0b939"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/tags/worldgen/placed_feature/ores_to_remove.json"
+hash = "c536759fe87d1877de531334628ec26c30f42000e0fff3f0af0e53da025e6770"
+
+[[files]]
+file = "datapacks/pack/data/minecraft/recipe/firework_rocket.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/minecraft/recipe/firework_rocket_simple.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/minecraft/recipe/shulker_box.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/scout/recipe/upgraded_pouch.json"
+hash = "ec458ae1673da91d3ea37eeb03c7c1e03b26f8f5519c11a77665efda1955a96d"
+
+[[files]]
+file = "datapacks/pack/data/scout/recipe/upgraded_satchel.json"
+hash = "17a6e92b4b49a3b589d25079fe9aab51787f4005a63a0802c3ecdf702f579217"
+
+[[files]]
+file = "datapacks/pack/data/teleportcakes/recipe/end_cake.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/teleportcakes/recipe/nether_cake.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/data/teleportcakes/recipe/overworld_cake.json"
+hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
+
+[[files]]
+file = "datapacks/pack/pack.mcmeta"
+hash = "cb0e0db054450d06e1b74037430f156c9f9f433d5db38cee1df1a12ad34441f1"
+
+[[files]]
+file = "datapacks/pack/pack.png"
+hash = "01d50109f416233fc66de1895040f230a6daedfcf6b927216e4e0fda1d6e2474"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -24,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
+file = "mods/aero-pack-utils.pw.toml"
+hash = "4e477ab95dd7a8837821d2973249f61b1f1b89e98a5031ae5b2389c53dfe0a7b"
 metafile = true
 
 [[files]]
@@ -275,10 +492,6 @@ metafile = true
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
-
-[[files]]
-file = "mods/pack-utils.toml"
-hash = "a938db891b304293fb111caf15195de9e5307931e50cf7582d28381fb8383326"
 
 [[files]]
 file = "mods/paragliders.pw.toml"
