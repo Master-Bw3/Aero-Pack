@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".direnv/bin/nix-direnv-reload"
-hash = "5aa6a46fa910621f4304fa895a02d51ffdcdd3f34cba4f0fc83e11c92fb47279"
-
-[[files]]
-file = ".direnv/nix-profile-26.05-ap9dpkyzikzzh042"
-hash = "0301ee8b507a248ede629ad4788a81633bd15052f3c215e461ea4d24b0e841fb"
-
-[[files]]
-file = ".direnv/nix-profile-26.05-ap9dpkyzikzzh042.rc"
-hash = "09a3afc8ed1588b3776c1d2a5e77de3cb111023ebfb7fbd01935ed87683bc911"
-
-[[files]]
 file = ".envrc"
 hash = "62fbcdefc5279c4af349ddf7770d4104d432e6faeff1afab121253bf8e36a677"
 
@@ -622,7 +610,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "shell.nix"
-hash = "dc1c906d8a38d6f3519152cf2aaf9fe3df2100e0acc48c2840202f16647926ce"
