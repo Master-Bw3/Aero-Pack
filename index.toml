@@ -202,7 +202,7 @@ hash = "589e18a8b2098ca75a1a4d7eec3c5f3a5d882e9e36d91ab5e536334db3a0b939"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/tags/worldgen/placed_feature/ores_to_remove.json"
-hash = "c536759fe87d1877de531334628ec26c30f42000e0fff3f0af0e53da025e6770"
+hash = "8cdace82e4ab8c5313e13fcf05caf7ccb7255506f6a290cee0453d509a632b44"
 
 [[files]]
 file = "datapacks/pack/data/minecraft/recipe/firework_rocket.json"
@@ -532,6 +532,11 @@ hash = "78584c0d397dea71f0337854a7b1fd241c01ea3a5325fe490d01e37a49f98f3a"
 metafile = true
 
 [[files]]
+file = "mods/dhm.pw.toml"
+hash = "eb69d6ca900e7c41a7929fceae82800e16531a8678ff61fe3f55ce7697221262"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "671765218ffd2b26e072787a9139506057e4a6c7efc0fa97f8b4d9776f015071"
 metafile = true
@@ -787,11 +792,6 @@ hash = "e97960a5909e986c8f967fcaf155d961359cff8d25292025b326d792b2496371"
 metafile = true
 
 [[files]]
-file = "mods/reactive.pw.toml"
-hash = "88ed3ad28743cb00c0070b7579eedf9d9309d4f63be4886cb48260115e289512"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
@@ -947,6 +947,11 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
+file = "mods/yori3os-grappling-hooks.pw.toml"
+hash = "18b1e44c8b265fddc9f1da55c866f01afae93e3762e7020231c8ea6559866cf3"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
@@ -959,6 +964,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 hash = "03d964cba45be30fbcbef52f89f3953185737f55c8934d12e199b67194c2b368"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
