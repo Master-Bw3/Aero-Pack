@@ -1,0 +1,13 @@
+name = "Desert Pillager Wall"
+filename = "desert_pillager_wall-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GtIDUVSS/versions/9bbA23fu/desert_pillager_wall-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "491e2e12b2a2a66b0c9a5fa8b28e5a59954b6f232b5842c175782cd3b07647e02f2ee2bc885d09aff27ce4a39b8a83a61754d55cb1b2c9f22d9eaa99fd4b946f"
+
+[update]
+[update.modrinth]
+mod-id = "GtIDUVSS"
+version = "9bbA23fu"

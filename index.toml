@@ -411,6 +411,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-pillager-arise.pw.toml"
+hash = "4ae60613f7eadc76b343631d6cb177ec9949ddf91a269e8756e39bb859dca4a0"
+metafile = true
+
+[[files]]
 file = "mods/create-ranged.pw.toml"
 hash = "d60a1f5dab3658ac74a957e02b60fac95db9a6f8ad79a214851b46abf05156e2"
 metafile = true
@@ -461,6 +466,11 @@ hash = "e3211d7d54a7203a183ed3b453be5dd52d27f389dbef26dd7e769f20e1dea81f"
 metafile = true
 
 [[files]]
+file = "mods/desert-pillager-wall.pw.toml"
+hash = "78584c0d397dea71f0337854a7b1fd241c01ea3a5325fe490d01e37a49f98f3a"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "671765218ffd2b26e072787a9139506057e4a6c7efc0fa97f8b4d9776f015071"
 metafile = true
@@ -498,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "36666fecb7dd9e60c7c968d4be5c64e82319f3e5c71356fbf0976998561e571e"
 metafile = true
 
 [[files]]
@@ -663,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/pillager-caravans.pw.toml"
+hash = "6476fceaeb70e56ecc5250dd0fe417920773a4e69ff29e11b9a1edb16f55d5f0"
 metafile = true
 
 [[files]]
