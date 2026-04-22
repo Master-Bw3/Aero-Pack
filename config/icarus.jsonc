@@ -11,7 +11,7 @@
     // Type: Integer
     "wings_durability": 0,
     // Type: Float
-    "exhaustion_amount": 0.1,
+    "exhaustion_amount": 0.03,
     // Type: Float
     "required_food_amount": 6.001,
     "max_height_enabled": true,
