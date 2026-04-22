@@ -53,6 +53,18 @@ file = "config/tectonic.json"
 hash = "3d5d2fb089ad3f44b5715f13c97f19ce67ac4f43dd80e8df73a26684c9e30e6e"
 
 [[files]]
+file = "config/wover/cached.json"
+hash = "6c20ba9044335d2262a21bb7dc5d26d75a03bcc0f8b12062572c66d9865fe7c3"
+
+[[files]]
+file = "config/wover/client.json"
+hash = "461d32718f2d4a4805233dfc646bf95fe8456f0b40c7a7a5b1764a59f2e7b510"
+
+[[files]]
+file = "config/wover/main.json"
+hash = "cca432a261bebacbe40098a7c08597db7ece725b56cd5cc6ea3421f81116e3ea"
+
+[[files]]
 file = "datapacks/pack/data/aether/loot_table/chests/dungeon/gold/gold_dungeon_reward.json"
 hash = "aef6e2ac124ec54bf45c521b6aafa268921baf3a66e605ee695fa7059f2d5350"
 
@@ -459,6 +471,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/ends-phantasm.pw.toml"
+hash = "e99bc192266affa7203e3536f96a9a584e2fb348a20d780a7c0afcb60623fa7d"
+metafile = true
+
+[[files]]
 file = "mods/exposure-expanded.pw.toml"
 hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
 metafile = true
@@ -589,8 +606,33 @@ hash = "0213b6ecb4784b9f57bf3d66444c61ce357b365c8bef2d10363d0c7f20b86e58"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "f4db358ab5081831cb84f4d81338b21f0600675ab25b13f8824deecc82d2acc8"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "8e9b61ed721c95cf7fdca46979bb20fdb12aaecccccc92a7822e5ce7a6cbca19"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "c0d2cc47ae8e0a26ee066aaa1f112cd4d2ecb4a843de947996f85e4ad937d5d6"
+metafile = true
+
+[[files]]
+file = "mods/mtr-moogs-temples-reimagined.pw.toml"
+hash = "b7d2538e280bf4f16c4a737722880a1adbdc345b1d9fe4b38fff9cfc34b55cac"
 metafile = true
 
 [[files]]
@@ -601,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-exoticism.pw.toml"
 hash = "8f065de8a14d77fd909cb7bbc01a7e98419c61d9f7bb542844432442b4170f6a"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
@@ -795,15 +842,15 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
