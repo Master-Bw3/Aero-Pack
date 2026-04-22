@@ -1,0 +1,13 @@
+name = "Scout Recrafted"
+filename = "scout-1.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNRgnYFa/versions/iYBNB8St/scout-1.0.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "013c70735210badd51c7f285a74fe6bb2a6bc935111262f8f5f82c00d1a1ffb28368d3f07461e447627efdb227dfa0b5af10be35dde1bcee26587589ed766f07"
+
+[update]
+[update.modrinth]
+mod-id = "SNRgnYFa"
+version = "iYBNB8St"

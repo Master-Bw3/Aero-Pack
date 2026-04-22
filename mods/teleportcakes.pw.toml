@@ -1,0 +1,13 @@
+name = "Teleport Cakes"
+filename = "TeleportCakes-neoforge-1.21.1-v2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyb1wNXB/versions/t9J60T1b/TeleportCakes-neoforge-1.21.1-v2.1.2.jar"
+hash-format = "sha512"
+hash = "7a51f587a324cc3ef9cf9d1fd0ab23e2a37a6ace0d597c672b05f9372c24a7f1bd3b6b0a7c553c9943ad3cbe98056c125b9b9a8b3432dadc8101800c2c4a8374"
+
+[update]
+[update.modrinth]
+mod-id = "qyb1wNXB"
+version = "t9J60T1b"

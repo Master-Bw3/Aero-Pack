@@ -1,0 +1,13 @@
+name = "Flowing Fluids"
+filename = "flowing_fluids_1.21-neoforge-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s1I3BT95/versions/2310YWLO/flowing_fluids_1.21-neoforge-1.0.5.jar"
+hash-format = "sha512"
+hash = "c2feb11738b58ee69846568ab90f892d5bd9e866477307d2e8317a84572dbadc04a4b11cbb14223a274217d78bf82a87d59fc348be3dbcc371443f9e306d6e1b"
+
+[update]
+[update.modrinth]
+mod-id = "s1I3BT95"
+version = "2310YWLO"

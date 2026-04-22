@@ -1,0 +1,13 @@
+name = "Aero Pack"
+author = "Master_Bw3"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "490686d6711d263c22640943cfa85c1460b84a42668ad7434d4a056c4f0f3b02"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

@@ -1,0 +1,13 @@
+name = "Create: Sky Village"
+filename = "create_sky_village-0.0.36 Hotfix-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1sKEbgoN/versions/35eRLW69/create_sky_village-0.0.36%20Hotfix-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "a9d69c2c5d02fb536cfa80fcffbb6b15c457680674e8fa20a3fb271d678e0a3d50c514de1f4f9018bf813d09f483476efc4a3cbe97d4bb2ab97a922b41fd534c"
+
+[update]
+[update.modrinth]
+mod-id = "1sKEbgoN"
+version = "35eRLW69"

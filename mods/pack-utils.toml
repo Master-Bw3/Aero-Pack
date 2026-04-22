@@ -1,0 +1,9 @@
+name = "Pack Utils"
+filename = "packutils-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Master-Bw3/aero-pack-utils/releases/download/1.0.0/packutils-1.0.0.jar"
+hash-format = "sha512"
+hash = "6591084e65bfdb1c544f285281d3df3403208d988512d52c0efd6044c5bcdd80"
+
