@@ -120,17 +120,6 @@
       }
     },
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "teleportcakes:end_cake",
-          "weight": 100,
-          "conditions": []
-        }
-      ]
-    },
-    {
       "bonus_rolls": 0.0,
       "entries": [
         {
@@ -178,6 +167,26 @@
         "max": 4.0,
         "min": 0.0
       }
+    },
+    {
+      "bonus_rolls": 0,
+      "functions": [
+        {
+          "function": "minecraft:set_components",
+          "components": {
+            "minecraft:stored_enchantments": {
+               "minecraft:fire_protection": 1
+            }
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "immersiveenchanting:ancient_book"
+        }
+      ],
+      "rolls": 1
     }
   ],
   "random_sequence": "aether:chests/dungeon/gold/gold_dungeon_reward"

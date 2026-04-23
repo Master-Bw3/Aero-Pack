@@ -33,6 +33,10 @@ file = "config/coldsweat/world.toml"
 hash = "55acc3f9efe75bbcbfbbb8e79976e723dea70691c11784ae3b472d62f70a9de5"
 
 [[files]]
+file = "config/dynamic_difficulty-common.toml"
+hash = "2438c84449e1d918572bf29ebfd0df1ff192ecc6b58dfd5dee3d5afece477252"
+
+[[files]]
 file = "config/flowing_fluids.json"
 hash = "3d6707291bb23415a147e666b727a8bc9cf465ea1424f0ac053754ca495542ef"
 
@@ -49,12 +53,16 @@ file = "config/iceandfire/iaf-common.json"
 hash = "91c1967e9c9f99ca48ea2b5865bc3ae6a894db3589a650812f9f8b0f72057a97"
 
 [[files]]
+file = "config/paraglider-server.toml"
+hash = "921a4bb6791f4bdff317a84d0574ee3722de660543696e37864cb1231e160e14"
+
+[[files]]
 file = "config/structurify.json"
 hash = "691d2d1fb453365b04b9f9275e039d7abf52e7090efa1be50742e0f4c05d4260"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "3d5d2fb089ad3f44b5715f13c97f19ce67ac4f43dd80e8df73a26684c9e30e6e"
+hash = "719f8d2b86d751e07d7d0a97ce52688c5a6b4645bd31cf8829bd6c33fb4b240a"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -69,8 +77,20 @@ file = "config/wover/main.json"
 hash = "cca432a261bebacbe40098a7c08597db7ece725b56cd5cc6ea3421f81116e3ea"
 
 [[files]]
+file = "datapacks/pack/data/aether/loot_table/chests/dungeon/bronze/bronze_dungeon_reward.json"
+hash = "8a4c6554a2ebabd99c88b8bef437fa9cdc56ba1b0302c914b78eb3dd28e58fab"
+
+[[files]]
 file = "datapacks/pack/data/aether/loot_table/chests/dungeon/gold/gold_dungeon_reward.json"
-hash = "aef6e2ac124ec54bf45c521b6aafa268921baf3a66e605ee695fa7059f2d5350"
+hash = "d592608183e066dd75ae248efc4f5570d5cc85b01c43dfe4c48bb7866ab9b17f"
+
+[[files]]
+file = "datapacks/pack/data/aether/loot_table/chests/dungeon/silver/silver_dungeon_reward.json"
+hash = "33678a05ca2e6a18e54b07f5fa6db0dcd4562b2f0d318109a03c9a3a0d7706a1"
+
+[[files]]
+file = "datapacks/pack/data/deep_aether/loot_table/chests/dungeon/brass/brass_dungeon_reward.json"
+hash = "cdbf848f50ff704152880c2b287532c8106668b5c6dfd55d1ff4c8077d58b994"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/aluminium.json"
@@ -79,6 +99,14 @@ hash = "f38c08e4fae0283d5349e3413ab41580e516291a73c267e44dcd6b218de51678"
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/ancient_debris.json"
 hash = "eb9b2e55ea5d783fbd0bf678889c186b844ad6b003d6c083b65322f8acc5e3ce"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/blazing_quartz_nether.json"
+hash = "ff49ca19cf482a6b733deea31126c66fc7521b123b9a86dde900d3ca19bc80ef"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/brilliant.json"
+hash = "c40d7fad09361feb282a53138fee0554034e67684455177cd229daf33d402b1f"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/coal.json"
@@ -110,7 +138,7 @@ hash = "8e1d794b49e35ea828279c6a8c95282bbb9a0787cf5c9385256c2cc9d17baeb7"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/gold.json"
-hash = "5134ddad6f2b94451192bafb49412948ad030980a0148b887829c88ed116013e"
+hash = "9bb92f2b3cea06cbab5157cf4143fdb627eb2cb7482af89c24769812c23c9841"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/gold_nether.json"
@@ -118,7 +146,7 @@ hash = "3199a33f22959c40d7a621e859ea239c58df156792e8e1284f61c390f5621b34"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/iron.json"
-hash = "b310a8f51fffb278e8b30ba090556c0b41cffcd514b6bccaad94eb4de8a338ea"
+hash = "8f569d7d532cf0accffd3c1dc15476ce07f4d3b2dff89c1880667ba1771f290e"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/iron_extra.json"
@@ -142,11 +170,11 @@ hash = "5e62d2b5c3bccdf9c7ebb247eae2b3399ee539cecc7a589ae8d3331e94fdd4f8"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/lithium.json"
-hash = "9b01ae15154fb60a1cd0ec300efb13bbf4c76188d169252ff3457021c66b8018"
+hash = "dfc8445e8fbf6ccb041a65707f0b0eff0f302958c8be06f2bda3f9540a2e7ac3"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/lithium_gold_river.json"
-hash = "649d0743f111a7a9f77a98e3cea41d6a5fb3a34e4d9fdc2d9e5b08838c035769"
+hash = "034c8717de8e1af01d3c7d78c90e3be9893ca2c1b85ab127c414d82e2f4abdbe"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/platinum.json"
@@ -163,6 +191,10 @@ hash = "ca4bb32b715467b427773378f407a86b85671ef558aebfc97abea962bcd3dc87"
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/redstone.json"
 hash = "47df135dfc535b862eff60d34ea82bc74956aecdf8bacce16567e18d33b9d4d1"
+
+[[files]]
+file = "datapacks/pack/data/geocluster/deposits/soulstone.json"
+hash = "b59da2234f5f87e4df3f0c0edd68ccdf9077b3b1441b4bfd7776c8eac2eba251"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/deposits/tin.json"
@@ -202,7 +234,15 @@ hash = "589e18a8b2098ca75a1a4d7eec3c5f3a5d882e9e36d91ab5e536334db3a0b939"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/tags/worldgen/placed_feature/ores_to_remove.json"
-hash = "8cdace82e4ab8c5313e13fcf05caf7ccb7255506f6a290cee0453d509a632b44"
+hash = "95f7ace07a3fee6837bcfd61f6994643a49e83e001cf0b1ddd3ec6460e1e0b51"
+
+[[files]]
+file = "datapacks/pack/data/minecraft/loot_table/entities/elder_guardian.json"
+hash = "4f9b36726475fb8bd149482b3da7b8814c3e9f0e5826c5aac293c67c249520f6"
+
+[[files]]
+file = "datapacks/pack/data/minecraft/loot_table/entities/wither.json"
+hash = "570d424a9b8c83b6aab62dd6fe68e6d8d70a97f46ad161f2024e364750cc7d3a"
 
 [[files]]
 file = "datapacks/pack/data/minecraft/recipe/firework_rocket.json"
@@ -313,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/aero-pack-utils.pw.toml"
-hash = "8ba35cb14f94d713d189566947d33198b54cbab3f28f31d39310170f501d4136"
+hash = "aa7d828316aa0f9f928129465d06a5b2640a9bae6ccde0cd7aba54615bac9510"
 metafile = true
 
 [[files]]
@@ -547,6 +587,11 @@ hash = "671765218ffd2b26e072787a9139506057e4a6c7efc0fa97f8b4d9776f015071"
 metafile = true
 
 [[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -707,6 +752,11 @@ hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
 metafile = true
@@ -809,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
+metafile = true
+
+[[files]]
+file = "mods/renewable-elder-guardians.pw.toml"
+hash = "689900cbe42e35e5ac16b3eaebd451961692d866e743cf69255dd12012741c7e"
 metafile = true
 
 [[files]]
@@ -990,3 +1045,7 @@ metafile = true
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
+
+[[files]]
+file = "paragliderSettings.nbt"
+hash = "32d9c532312b92ad10fc72c26746b58512367c1267cc9ea9581ad9ad824c1627"

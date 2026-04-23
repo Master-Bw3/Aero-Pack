@@ -1,15 +1,15 @@
 name = "aero-pack-utils"
-filename = "packutils-1.1.0.jar"
+filename = "packutils-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Master-Bw3/aero-pack-utils/releases/download/1.1.0/packutils-1.1.0.jar"
+url = "https://github.com/Master-Bw3/aero-pack-utils/releases/download/1.2.0/packutils-1.2.0.jar"
 hash-format = "sha256"
-hash = "dfaf363501ffc6395eaaeb5b6bdca136d7631a533bb942c543ff649b499708d8"
+hash = "8ad5879df395c7ef7a8a0662d5e82b837247d8ca2de9715cac1e63611c8404a7"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Master-Bw3/aero-pack-utils"
-tag = "1.1.0"
+tag = "1.2.0"

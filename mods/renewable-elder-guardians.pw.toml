@@ -1,0 +1,13 @@
+name = "Renewable Elder Guardians"
+filename = "renewable_elder_guardians-1.0.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yfg6TuFc/versions/TGzack39/renewable_elder_guardians-1.0.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "42509a8d213b128228376f3b64839da5d2be31fc64c725242e85f6779db3c7de07d518a4ba65df307b351780b4456dec943e464deb8369295396386360dbfba0"
+
+[update]
+[update.modrinth]
+mod-id = "Yfg6TuFc"
+version = "TGzack39"

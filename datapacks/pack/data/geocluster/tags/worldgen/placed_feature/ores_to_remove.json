@@ -1,17 +1,19 @@
 {
   "replace": false,
   "values": [
-   "tfmg:lead_ore",
-   "tfmg:lithium_ore",
-   "tfmg:nickel_ore",
-   "tfmg:tfmg_striated_ores_nether",
-   "tfmg:tfmg_striated_ores_overworld",
-   "create:zinc_ore",
-   "occultism:ore_silver",
-   "occultism:ore_silver_deepslate",
-   "iceandfire:silver_ore",
-   "malum:soulstone_ore",
-   "malum:brilliant_ore",
-   "malum:cthonic_gold_ore"
+    "tfmg:lead_ore",
+    "tfmg:lithium_ore",
+    "tfmg:nickel_ore",
+    "tfmg:tfmg_striated_ores_nether",
+    "tfmg:tfmg_striated_ores_overworld",
+    "create:zinc_ore",
+    "occultism:ore_silver",
+    "occultism:ore_silver_deepslate",
+    "iceandfire:silver_ore",
+    "malum:cthonic_gold_ore",
+    "malum:ore_brilliant",
+    "malum:ore_natural_quartz",
+    "malum:ore_soulstone",
+    "malum:blazing_quartz_ore"
   ]
 }
