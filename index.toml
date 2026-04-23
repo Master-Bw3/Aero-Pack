@@ -13,6 +13,10 @@ file = "config/accessories.json5"
 hash = "d43f142d4d049abf573d0fa2319e8e222120ae8359ea17973fce682fe165b637"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "095a24e758afa91c65ff095d0fd00fbdd582fea7a33265fe7afd046f1908cbb8"
+
+[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "59f29799a17d578c3d8a5aa152c275cf4b0981281d6cec882b80561a33b59556"
 
