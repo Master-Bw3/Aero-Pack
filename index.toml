@@ -62,7 +62,7 @@ hash = "691d2d1fb453365b04b9f9275e039d7abf52e7090efa1be50742e0f4c05d4260"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "719f8d2b86d751e07d7d0a97ce52688c5a6b4645bd31cf8829bd6c33fb4b240a"
+hash = "e357b2b2994b00b106231ffa26ab26771802e34a56ff37d58d2edbe8d9454d54"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -407,6 +407,16 @@ hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
 
 [[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "7170c3cce8959cf23812283df3449750547e1cbc76ec118f1d78299ae78efa29"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
+metafile = true
+
+[[files]]
 file = "mods/bundle-recipe.pw.toml"
 hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
 metafile = true
@@ -667,6 +677,11 @@ hash = "cdc66a084161b07f0f07e8a445272862270f1f7be71a8ec94959365395eadc86"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
@@ -742,6 +757,11 @@ hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "337093b94742d334ad349d4fbfe1b74a9b885784ac6d43432896b3dc527260a9"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "64d1fd7890d2fef58ceec90a88dfdb10165fe1214cc919051cbdea4b3ddfc1f6"
 metafile = true
@@ -797,6 +817,11 @@ hash = "8af373c3df0a5561e90a600a7f02ee682805a2528605997bd4cf085914ba900a"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
+metafile = true
+
+[[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "2104f30f90dbd5ff5eae8295f71f47227c9b1c96b4b5bb2ae196cd67d11e138a"
 metafile = true
@@ -804,6 +829,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-exoticism.pw.toml"
 hash = "8f065de8a14d77fd909cb7bbc01a7e98419c61d9f7bb542844432442b4170f6a"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
 
 [[files]]
@@ -932,11 +962,6 @@ hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
-metafile = true
-
-[[files]]
 file = "mods/teleportcakes.pw.toml"
 hash = "4b66583e13a915da1fd9241718f008ac601e834f549349684f79aee52b5d598d"
 metafile = true
@@ -944,16 +969,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
-metafile = true
-
-[[files]]
-file = "mods/terraphilic.pw.toml"
-hash = "2adf25ec00711d16b41c883e468df80e55448740b300d694364dd50744d76605"
 metafile = true
 
 [[files]]
