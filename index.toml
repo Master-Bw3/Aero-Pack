@@ -234,7 +234,7 @@ hash = "589e18a8b2098ca75a1a4d7eec3c5f3a5d882e9e36d91ab5e536334db3a0b939"
 
 [[files]]
 file = "datapacks/pack/data/geocluster/tags/worldgen/placed_feature/ores_to_remove.json"
-hash = "95f7ace07a3fee6837bcfd61f6994643a49e83e001cf0b1ddd3ec6460e1e0b51"
+hash = "5f664877cda84f18f1ea02d73f3126c60c3843b5a0f05029320aa21139b8eb11"
 
 [[files]]
 file = "datapacks/pack/data/minecraft/loot_table/entities/elder_guardian.json"
