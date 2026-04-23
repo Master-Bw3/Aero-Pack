@@ -1,0 +1,123 @@
+
+{
+  "type": "cache_once",
+  "argument": {
+	  "type": "mul",
+	  "argument1": {
+		"type": "minecraft:spline",
+		"spline": {
+		  "coordinate": {
+			"type": "y_clamped_gradient",
+			"from_y": 40,
+			"to_y": 310,
+			"from_value": 0,
+			"to_value": 0.76
+		  },
+		  "points": [
+			{
+			  "location": 0.055,
+			  "value": 0.05,
+			  "derivative": 1
+			},
+			{
+			  "location": 0.1,
+			  "value": 0.08,
+			  "derivative": 1
+			},
+			{
+			  "location": 0.327,
+			  "value": 0.267,
+			  "derivative": 1
+			},
+			{
+			  "location": 0.462,
+			  "value": 0.4,
+			  "derivative": 1
+			},
+			{
+			  "location": 0.566,
+			  "value": 0.567,
+			  "derivative": 1
+			},
+			{
+			  "location": 0.760,
+			  "value": 0.680,
+			  "derivative": 1
+			},
+			{
+			  "location": 1,
+			  "value": 1,
+			  "derivative": 1
+			}
+		  ]
+		}
+	  },
+	  "argument2": {
+		"type": "mul",
+		"argument1": {
+		  "type": "minecraft:spline",
+		  "spline": {
+			"coordinate": {
+			  "type": "abs",
+			  "argument": {
+				"type": "noise",
+				"noise": "lithosphere:rivers",
+				"xz_scale": 0.7,
+				"y_scale": 0
+			  }
+			},
+			"points": [
+			  {
+				"location": -0.03,
+				"value": -1,
+				"derivative": 0
+			  },
+			  {
+				"location": -0.02,
+				"value": 0,
+				"derivative": 0
+			  },
+			  {
+				"location": 0,
+				"value": 0,
+				"derivative": 0
+			  },
+			  {
+				"location": 0.02,
+				"value": 0,
+				"derivative": 0
+			  },
+			  {
+				"location": 0.03,
+				"value": 1,
+				"derivative": 0
+			  }
+			]
+		  }
+		},
+		"argument2": {
+		  "type": "minecraft:spline",
+		  "spline": {
+			"coordinate": {
+			  "type": "noise",
+			  "noise": "lithosphere:biome_variation",
+			  "xz_scale": 1,
+			  "y_scale": 0
+			},
+			"points": [
+			  {
+				"location": -0.00001,
+				"value": -1,
+				"derivative": 0
+			  },
+			  {
+				"location": 0.00001,
+				"value": 1,
+				"derivative": 0
+			  }
+			]
+		  }
+		}
+	  }
+  }
+}
