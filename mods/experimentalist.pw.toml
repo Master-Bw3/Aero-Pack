@@ -1,0 +1,13 @@
+name = "Experimentalist"
+filename = "experimentalist-2.0.2+1.21.x-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65735efa6304f0e2998b07daae9f0a1121acad5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7271701
+project-id = 1161753

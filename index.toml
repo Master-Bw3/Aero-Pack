@@ -13,10 +13,6 @@ file = "config/accessories.json5"
 hash = "d43f142d4d049abf573d0fa2319e8e222120ae8359ea17973fce682fe165b637"
 
 [[files]]
-file = "config/biome_replacer.properties"
-hash = "095a24e758afa91c65ff095d0fd00fbdd582fea7a33265fe7afd046f1908cbb8"
-
-[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "59f29799a17d578c3d8a5aa152c275cf4b0981281d6cec882b80561a33b59556"
 
@@ -65,10 +61,6 @@ file = "config/structurify.json"
 hash = "691d2d1fb453365b04b9f9275e039d7abf52e7090efa1be50742e0f4c05d4260"
 
 [[files]]
-file = "config/tectonic.json"
-hash = "e357b2b2994b00b106231ffa26ab26771802e34a56ff37d58d2edbe8d9454d54"
-
-[[files]]
 file = "config/wover/cached.json"
 hash = "6c20ba9044335d2262a21bb7dc5d26d75a03bcc0f8b12062572c66d9865fe7c3"
 
@@ -79,6 +71,362 @@ hash = "461d32718f2d4a4805233dfc646bf95fe8456f0b40c7a7a5b1764a59f2e7b510"
 [[files]]
 file = "config/wover/main.json"
 hash = "cca432a261bebacbe40098a7c08597db7ece725b56cd5cc6ea3421f81116e3ea"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/basic_topography.json"
+hash = "500bfba14e9ad9e14ce931eef3d4e3140b5ed9aa33295066046256e561d7c738"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/cavern.json"
+hash = "4a375c7ef8c34c6803cc42c0938748cf7b5973bb2fd28a849ec641ab2a229dcd"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/caves_final.json"
+hash = "cd4a98d6114e12dd8f50cd21ec5b40103014f6b3a36be32b2ae4b3d89e1d5e9a"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/claustrophobic_caves.json"
+hash = "b39df9aea023d7f758d00059d9bb148f901de3d101d71d802b3dfdd7ac9a99f6"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/connecting_caves.json"
+hash = "70c8c22210e38f06c8f848d54c8460c9c66879688a556f503e26bce3bb5bb5e2"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/maze_caves.json"
+hash = "9f7b4ed8cd590254de805bf38d7c1e2e0c2cc42193b1f8f94512f12297a233a3"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/tunnel_caves.json"
+hash = "2bc025d96302fa62cb7df3952af2481d54520f6aa3a35b6bba8cb1ca862c51ed"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/caves/underground_rivers.json"
+hash = "c6cc044bd97c920fd904cc844597118cd633d30451473f4b555fe7768bec03cb"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/coastal_cliffs.json"
+hash = "69e6fbff444abe914cbbbdb46ffe2fbdf6abc28b0607cde1edb17c91c1802ef1"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/continents.json"
+hash = "5603e01d03b7e122edbae0f769106b5f0e85fe607ff7f2603efb462bcf65392e"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/continents_coasts.json"
+hash = "63584b79bb5334da28437bd3d7ef9644a22466962bba044f9d62b22ccf16a7a9"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/density/final_density.json"
+hash = "47652254d01e6fa96da50855c1f07be5620109de20b81a9f4f97190b42590d4e"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/depth.json"
+hash = "afbc32e21d907c639adb385574cafb90f146a326069862d90179f2ecc0e08f08"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/erosion_detail.json"
+hash = "cab770f944405bc8e95faf14a044b5bcade25efa70eb419ccaf218416e4de867"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/lakes_depth.json"
+hash = "1a400f56317089d07d77d0f61bd342a1ed8c99f136d48b4a0bd5a6e905d79b05"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/lakes_placement.json"
+hash = "0d6ab1a13889d078a7d502173575f553d42b6babd4ad9f88f91f381737085a01"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mesa_placement.json"
+hash = "06b6744b536ce9b3f610509bc1b82ff25142fd2f540d87a35612b8f4d1121b51"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mesas.json"
+hash = "869cb4c3b9958370700195ac4c5a26d7e8140f496842663b4e6a1b8548f3f1a8"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mesas_old.json"
+hash = "7c807a9d99700f2d051bc78b1ef24b20c40617827b60347d946fcb266d5a688c"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mountains_base.json"
+hash = "17f626593e07ef6f22dca0119f4d9d9083c44adbab0aa0fc3ddf5fe38ef2cb06"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mountains_shape.json"
+hash = "062280a830a595381fbb7c1fc20dd399e615328e2c72c002307ef09a874e5ff4"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mountains_weathering.json"
+hash = "8d69988d64b82fa444012bf30f0bd4caae1844f6e7686966317c9ba1b2d50153"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/mushroom_islands.json"
+hash = "299552d64dbf8861dcf8c292f9a5d0f92adacebbdf236a66e3ac0832795ca27b"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/orogeny.json"
+hash = "b87e9bc1634696eaa8a9bb728749f90d3efc6a954f890ef5cac17e71ef2a09b0"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/river_mask.json"
+hash = "3769568b9098223bfb3d78d4c89e45078548802f1c206d4af1366f1a5f1b5683"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/river_roughness.json"
+hash = "646b06fafa94d6a684f1f8e79b4b77766ca9e46e106aeb1be160cfe0f6a1f146"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/river_valley_c.json"
+hash = "07277120081af77c3388294e58d9c31138f731474077eb1ca5abbe79fc27ad6e"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/river_valley_g.json"
+hash = "f3be3d93b723676b82ed5f80d5e4c96b079167303b0221ff8caeae3b7230e3cb"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/river_valley_u.json"
+hash = "eed05a7e67bc49a0f4b6573bba07c401986e43301ae11e46ac1307a49dc4865a"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/river_valleys.json"
+hash = "9bb37e07e688f6ebab23d8abd781f8b8dc121c41156235373abc897582dd4ec2"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/roughness.json"
+hash = "e0c2844184323f0cdadedee24c16ef4625078ffa03c7dd7fa1082a74e7bd629f"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/sloped_cheese.json"
+hash = "6c957fc2e905e8cd370c8cd43c46b58712058cb1a731ae25e290cb4a0d40e53c"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/swamp_placement.json"
+hash = "74d86cccaf18738222f6107b4949092154cd77fd33f18015345064bf30c19e80"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/swamp_terrain.json"
+hash = "bfa63fd3b8f65a63ea6c8755a22ef4d13d7b6c6fca096d37c4e158a6e8e6e235"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/topography_cliffs.json"
+hash = "337b7780cbe4904304b2264b074e9cd385e5cb16b50cde1a8c9c064e318a7170"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/topography_final.json"
+hash = "7bcd6982164b26451729b953b6b0549b27789051f48b2e7d5d07acd7522e437b"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/topography_mountains.json"
+hash = "f0792cb4f45a341892ca7ac8732342655af7abca0c82298c88ea70c0cd835f29"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/topography_rivers.json"
+hash = "ccd3827e8b21010d264946f8ddc72f6910fe0c6033ff8c86aa6518c9af05e442"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/topography_swamps.json"
+hash = "dead50865facd659841e203f65ea26e0eb751624ff20b77ba98630df857d6ea1"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/volcanic_islands.json"
+hash = "52496b039118c31db910f51d19814c3729484876686de303369dfb6f63817a79"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/density_function/volcanic_mountains.json"
+hash = "a8eba52a046c785c4f22698299ad8f9b54653bee9704022197b999969230e579"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/biome_variation.json"
+hash = "ca5c3a66923391ecc88269fe083140593bb330facbe10d6d8a7553d538efa1a4"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/cliffs.json"
+hash = "18e4e5c1268629fa1ef1a9c0ca840c0dbe27214a58264f388be1021e0e5fd865"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/cliffs_height.json"
+hash = "5addcb250a13b76a2d31c5d8663497e7caaf5aa217463c2f5828ea036cfd1db1"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/continent_regions.json"
+hash = "5addcb250a13b76a2d31c5d8663497e7caaf5aa217463c2f5828ea036cfd1db1"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/continent_trenches_a.json"
+hash = "8513068e9cf802461011d075f12ed7599d8e56e088e2fc4238f8ba012c840ce2"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/continent_trenches_b.json"
+hash = "9db75666190478343a10c59a97fa0aa1b1e1e68169645e541e76b08ff20b903b"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/continentalness.json"
+hash = "80a24d3c6347e21530440fa2863f748bf377ffa6aa25d02d7bfbfc00d1422a12"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/humidity.json"
+hash = "f8284ceb8ac3986f403c39041d23fc50abed0b634c0eb8d730b96f42fd5a8857"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/lakes_placement.json"
+hash = "bad75a2673431c44fd5b43aa6bfb8ff257e9539f4394018561c5ca87abb9b7c0"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mesa_additions.json"
+hash = "a8a449b7befb835ecd795a841afbd558810c31a868d14183a8a38be0d584d838"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mesa_base.json"
+hash = "a8a449b7befb835ecd795a841afbd558810c31a868d14183a8a38be0d584d838"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mesa_height.json"
+hash = "a8a449b7befb835ecd795a841afbd558810c31a868d14183a8a38be0d584d838"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mesa_placement.json"
+hash = "3cc48ced8eda273e0bc0c71e81740af07cbccffc1e740244a62c008e6b177a27"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mesa_variation.json"
+hash = "a8a449b7befb835ecd795a841afbd558810c31a868d14183a8a38be0d584d838"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mountains_base.json"
+hash = "9fa3a1527f8883d98c5e97b18b1b37e7b1f0d92a7d6f7e79317a1e05d829f171"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mountains_shape.json"
+hash = "bda69c043c161e6dcb009406b57341842d5b4f2eecce9beb4b2963b087a82bb2"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mountains_valleys.json"
+hash = "fcc1b3e9b20b0e5efedb868548693ef942bb0033c1917f09897a1d08750e6d21"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mountains_variation.json"
+hash = "18e4e5c1268629fa1ef1a9c0ca840c0dbe27214a58264f388be1021e0e5fd865"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/mushroom_islands.json"
+hash = "0e39e18f0a18fbc796a4db4fa66313f07851e5362983c3a46b1749aaa1c7d537"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/orogeny.json"
+hash = "0e39e18f0a18fbc796a4db4fa66313f07851e5362983c3a46b1749aaa1c7d537"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/orogeny_variation.json"
+hash = "0e39e18f0a18fbc796a4db4fa66313f07851e5362983c3a46b1749aaa1c7d537"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/rivers.json"
+hash = "8e9bceec922be0204800acbd49d2dcbcd015632ed710aeae33bef73ee844f26c"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/rivers_detail.json"
+hash = "0e39e18f0a18fbc796a4db4fa66313f07851e5362983c3a46b1749aaa1c7d537"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/swamp_terrain.json"
+hash = "18e4e5c1268629fa1ef1a9c0ca840c0dbe27214a58264f388be1021e0e5fd865"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/lithosphere/worldgen/noise/variation_select.json"
+hash = "8db08ec97a675d6d1d0d13f6e2aed9385422ccd582328978356ab11ce8be9df7"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/dimension_type/overworld.json"
+hash = "31cb124ffe2bc491593376c037e67d998969a0abfe274d349db31cc56c664244"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/dimension_type/overworld_caves.json"
+hash = "f8cc4a7677f75daf217398cee88dc07cb0dc5cfc14d33b7c9aa7a91ddad4e45d"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/tags/block/overworld_carver_replaceables.json"
+hash = "c6e0f41861ee550021fdf63ce3a0c73a2eb5c637668923ac8ead0a3c414dc3c8"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/configured_carver/canyon.json"
+hash = "a0a7d286b1d3cc01e52daf2feed238a238bca07254b962ecf465a3c1f9a3c0f4"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/configured_carver/cave.json"
+hash = "48de6ce73fe5671ee2310ec1f466a49c98a7ee216d2b98510ed1ee2b5d7b4c1b"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/configured_carver/cave_extra_underground.json"
+hash = "1b4db41d9243a6464b133ad22838089804510960f4974c8b869d3310fef98587"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/configured_feature/spring_lava_frozen.json"
+hash = "43cf0df3ee3ab772f3ecc9103cf2b1eb86e2cc359def272adcfee5c406c5168e"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/configured_feature/spring_lava_overworld.json"
+hash = "43cf0df3ee3ab772f3ecc9103cf2b1eb86e2cc359def272adcfee5c406c5168e"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/configured_feature/spring_water.json"
+hash = "235c837332f3b0bd8e894c85f912d47c9666e5fa0815ca92fcf008b6a68c3763"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/density_function/overworld/continents.json"
+hash = "998e0737115e4a99432443b30cbca52d871cb421e4cad2e5456313d58197cfcf"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/density_function/overworld/erosion.json"
+hash = "16c917b072d139d169c00ceeb47a34edb25d01412e3b4712c5c21c6a33cec50b"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/density_function/overworld/offset.json"
+hash = "5af9f54d2a0f5cc8cc207c82f7be9d23010b2121cb825ed1d78f7211c26a2600"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/density_function/overworld/ridges.json"
+hash = "0ab38378c9a36c70510bd04f89c4872ad24d9d282357aaaf9f90df0bbececc30"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/density_function/overworld/ridges_exp.json"
+hash = "51a7a9a56792a86eec28dc30ea2b982efee4a8f15c7b4efea14c573a41576007"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/density_function/overworld/ridges_old.json"
+hash = "3063a64f14eae29daa1877633775e4744d2bd8b1ceb75d93d4b44f03e1de7dc0"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/noise/temperature.json"
+hash = "03b6ebca4e64f20a02c954544583c06a0a8be7451c58076e1028f9e93e956932"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/noise/vegetation.json"
+hash = "8eae79ca6b812a6b4773320237cc43ebb4778848ba8cc1cbeec5eb53d39e4bed"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/noise_settings/large_biomes.json"
+hash = "8d5c99e327c8f5e63f8e9a80a000ef7c50730c6b65411c9def62c50f6b9ca7e7"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/noise_settings/overworld.json"
+hash = "b95dbc7d73527de1eaf8aa2f23d484b0475b86800b4139b7494fea74465ab1cc"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/data/minecraft/worldgen/placed_feature/lake_lava_surface.json"
+hash = "e03f79a5ede8884d6fd8710302c520c233eb95f4cc52fc7c2643c9315c4c5211"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/pack.mcmeta"
+hash = "62b46a46c8bdd4c8cdf6cf14e723ad7a29663dff2a629f6e32019faafa1a8001"
+
+[[files]]
+file = "datapacks/lithosphere 1.7 15.08.2025/pack.png"
+hash = "6267779d80891285e80fdf27c3f392a59beb3fbe21c5fe7f7f85b38053786203"
+
+[[files]]
+file = "datapacks/pack/data/aeropack/biolith/biome_placement.json"
+hash = "2207c8c32884ed4c94fdb6e86c95bc1f026ec05c6489074602876e7fb0faf5c2"
 
 [[files]]
 file = "datapacks/pack/data/aether/loot_table/chests/dungeon/bronze/bronze_dungeon_reward.json"
@@ -411,16 +759,6 @@ hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
 metafile = true
 
 [[files]]
-file = "mods/biome-replacer.pw.toml"
-hash = "7170c3cce8959cf23812283df3449750547e1cbc76ec118f1d78299ae78efa29"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
-metafile = true
-
-[[files]]
 file = "mods/bundle-recipe.pw.toml"
 hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
 metafile = true
@@ -433,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "c09e2c7df60d3d247a443a8b788d1fc55278246e3e1e151b5a27e31b01ee0dbc"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
 metafile = true
 
 [[files]]
@@ -517,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "c2ecdc6c4b89c492dba96d5f29f27ebb26d336148356560124789c6aaf677c3b"
+hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
 
 [[files]]
@@ -611,6 +954,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/experimentalist.pw.toml"
+hash = "7bfc6056d87b24d807f7d7422da276a7c655d06f88fb9a861ce46acfb4bce2dc"
+metafile = true
+
+[[files]]
 file = "mods/exposure-expanded.pw.toml"
 hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
 metafile = true
@@ -626,8 +974,18 @@ hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/feur-extension-desert.pw.toml"
 hash = "a1fb429a5c382822c013719d6fecfb2e23b91d924082114cd10c3385ed505dd2"
+metafile = true
+
+[[files]]
+file = "mods/feur-extension-fossil.pw.toml"
+hash = "4b48dddb65c9e70b3a538b5d3d6f89e77df9b15ec63dd3b150f0bead32874142"
 metafile = true
 
 [[files]]
@@ -761,11 +1119,6 @@ hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "337093b94742d334ad349d4fbfe1b74a9b885784ac6d43432896b3dc527260a9"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "64d1fd7890d2fef58ceec90a88dfdb10165fe1214cc919051cbdea4b3ddfc1f6"
 metafile = true
@@ -801,6 +1154,11 @@ hash = "d13a0d4656e471ee9bb69ebad9cfff7cedda681b52a7b2ef3cc9d06529287166"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
@@ -818,11 +1176,6 @@ metafile = true
 [[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
 hash = "8af373c3df0a5561e90a600a7f02ee682805a2528605997bd4cf085914ba900a"
-metafile = true
-
-[[files]]
-file = "mods/natures-spirit.pw.toml"
-hash = "e5c9d8b97345998f99cf6da31b41c5cf4875361bc94c3354be2299730b7acb04"
 metafile = true
 
 [[files]]
@@ -936,6 +1289,11 @@ hash = "3c88d13ec3f4c2904befee38aa1a4fc27ffb0c322fb4186d82a53179125e43d1"
 metafile = true
 
 [[files]]
+file = "mods/sky-whale-ship.pw.toml"
+hash = "4031829e5dbccf24fcc592f3dd4a28f997cf0f6a09640ed5a54d1067d2191684"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
@@ -943,6 +1301,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
@@ -973,6 +1336,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "0fb825812a8c1cd99e21d887225ecf6ff6f8ac8b53d289d933d3949978f91d3f"
 metafile = true
 
 [[files]]
@@ -1073,3 +1441,8 @@ metafile = true
 [[files]]
 file = "paragliderSettings.nbt"
 hash = "32d9c532312b92ad10fc72c26746b58512367c1267cc9ea9581ad9ad824c1627"
+
+[[files]]
+file = "resourcepacks/computer-craft-recreated.pw.toml"
+hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Feur Extension Fossil"
+filename = "feur_extension_fossil-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yGr5XHdT/versions/HT1lGvPB/feur_extension_fossil-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "a8ef847ea26de7aa0075c02d3d538ca3b0fb170779b9722f3554393a6b05ae745d66657486f6e5768779173de954e0955831ec4a552c91589fcee9f844ff0de3"
+
+[update]
+[update.modrinth]
+mod-id = "yGr5XHdT"
+version = "HT1lGvPB"

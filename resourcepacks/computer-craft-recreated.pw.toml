@@ -1,0 +1,13 @@
+name = "Computer Craft: ReCreated"
+filename = "Computer Craft Recreated v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3KLJnXcN/versions/3aca9vJw/Computer%20Craft%20Recreated%20v1.2.zip"
+hash-format = "sha512"
+hash = "196fb959796551a8e24ac466f130643324bff3bdd641330c7fecfca9d2c7d1d8b5ff5d8fcd405df0d07e7e1fe5073b87f636ddfc1e7ac3405be02e14baab7733"
+
+[update]
+[update.modrinth]
+mod-id = "3KLJnXcN"
+version = "3aca9vJw"

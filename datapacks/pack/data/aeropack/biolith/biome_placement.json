@@ -1,0 +1,352 @@
+{
+    "removals": [
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:bamboo_jungle"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:birch_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:cherry_grove"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:cold_ocean"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:dark_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:deep_cold_ocean"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:deep_frozen_ocean"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:flower_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:frozen_ocean"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:frozen_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:meadow"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:mushroom_fields"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:old_growth_birch_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:old_growth_pine_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:old_growth_spruce_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:plains"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:frozen_river"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:grove"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:ice_spikes"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:jungle"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:mangrove_swamp"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:snowy_beach"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:snowy_plains"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:snowy_slopes"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:snowy_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:sparse_jungle"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:sunflower_plains"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:swamp"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:windswept_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:windswept_gravelly_hills"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "minecraft:windswept_hills"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:alpha_grove"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:ancient_delta"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:autumnal_maple_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:bamboo_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:barley_fields"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:bayou"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:blackwood_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:boreal_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:chalk_cliffs"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:clover_plains"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:cold_boreal_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:cold_deciduous_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:cold_river"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:deciduous_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:eucalyptus_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:fen"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:flower_fields"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:frozen_pine_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:frozen_tundra"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:fungal_fen"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:golden_boreal_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:grassland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:gravel_beach"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:highland_fields"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:icy_heights"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:magnolia_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:maple_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:marsh"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:mauve_hills"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:mountains"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:muddy_river"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:old_growth_bayou"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:orchard"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:pine_slopes"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:pine_taiga"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:poppy_fields"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:prairie"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:pumpkin_fields"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:rainforest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:redwoods"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:rocky_meadow"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:rocky_reef"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:shrubland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:silver_birch_forest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:sparse_rainforest"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:sparse_redwoods"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:spires"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:steppe"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:temperate_grove"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:towering_cliffs"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:tropical_river"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:tropics"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "biome": "regions_unexplored:willow_forest"
+        }
+    ]
+}
