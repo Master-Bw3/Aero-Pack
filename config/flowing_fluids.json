@@ -21,7 +21,7 @@
   "lavaNetherTickDelay": 10,
   "randomTickLevelingDistance": 32,
   "drinkWaterToBreedAnimalChance": 0.1,
-  "encloseAllFluidOnWorldGen": false,
+  "encloseAllFluidOnWorldGen": true,
   "announceWorldGenActions": false,
   "easyPistonPump": true,
   "waterFlowAffectsBoats": false,
