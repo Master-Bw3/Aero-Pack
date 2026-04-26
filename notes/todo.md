@@ -2,10 +2,12 @@
 - [ ] enchantment final tier custom items
     - instead of enchanted books drops
 - [ ] items for modded enchants
-- [ ] check if c2me wants to work now
-- [ ] remove beacon from create sky island
+- [x] check if c2me wants to work now (it doesnt)
+- [x] remove beacon from create sky island (I removed the entire island)
 - [ ] add custom geocluster ore samples
-
+- [ ] disable cc turtles
+- [ ] add regions unexplored stuff to antique atlas
+- [ ] rotten flesh to leather recipe (campfire prolly)
 
 ### Gameplay Testing
 - [ ] see if ore rarity is ok

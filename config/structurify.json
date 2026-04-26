@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.22",
-  "config_datetime": "2026-04-20_00-29-17",
+  "config_datetime": "2026-04-25_13-48-15",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -34,6 +34,14 @@
       "blacklisted_biomes": [],
       "step": "surface_structures",
       "terrain_adaptation": "bury"
+    },
+    {
+      "name": "create_sky_village:skyvillage",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
     }
   ],
   "structure_sets": []
