@@ -1,352 +1,504 @@
 {
-    "removals": [
+    "replacements": [
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:bamboo_jungle"
+            "target": "minecraft:bamboo_jungle",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:birch_forest"
+            "target": "minecraft:birch_forest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:cherry_grove"
+            "target": "minecraft:cherry_grove",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:cold_ocean"
+            "target": "minecraft:cold_ocean",
+            "biome": "minecraft:warm_ocean"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:dark_forest"
+            "target": "minecraft:dark_forest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:deep_cold_ocean"
+            "target": "minecraft:deep_cold_ocean",
+            "biome": "minecraft:deep_ocean"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:deep_frozen_ocean"
+            "target": "minecraft:deep_frozen_ocean",
+            "biome": "minecraft:deep_ocean"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:flower_forest"
+            "target": "minecraft:flower_forest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:forest"
+            "target": "minecraft:forest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:frozen_ocean"
+            "target": "minecraft:frozen_ocean",
+            "biome": "minecraft:warm_ocean"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:frozen_peaks"
+            "target": "minecraft:meadow",
+            "biome": "minecraft:savanna_plateau"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:meadow"
+            "target": "minecraft:frozen_peaks",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:mushroom_fields"
+            "target": "minecraft:frozen_peaks",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:old_growth_birch_forest"
+            "target": "minecraft:old_growth_birch_forest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "minecraft:old_growth_pine_taiga"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:old_growth_spruce_taiga"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:plains"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:frozen_river"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:grove"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:ice_spikes"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:jungle"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:mangrove_swamp"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:snowy_beach"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:snowy_plains"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:snowy_slopes"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:snowy_taiga"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:sparse_jungle"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:sunflower_plains"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:swamp"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:taiga"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:windswept_forest"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:windswept_gravelly_hills"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "minecraft:windswept_hills"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:alpha_grove"
-        },
-        {
-            "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:ancient_delta"
-        },
-        {
-            "dimension": "minecraft:overworld",
+            "target": "minecraft:old_growth_pine_taiga",
             "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:autumnal_maple_forest"
+            "target": "minecraft:old_growth_spruce_taiga",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:bamboo_forest"
+            "target": "minecraft:plains",
+            "biome": "desert"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:barley_fields"
+            "target": "minecraft:frozen_river",
+            "biome": "terralith:warm_river"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:bayou"
+            "target": "minecraft:grove",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:blackwood_taiga"
+            "target": "terralith:grove",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:boreal_taiga"
+            "target": "terralith:jagged_peaks",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:chalk_cliffs"
+            "target": "minecraft:ice_spikes",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:clover_plains"
+            "target": "minecraft:jungle",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:cold_boreal_taiga"
+            "target": "minecraft:mangrove_swamp",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:cold_deciduous_forest"
+            "target": "minecraft:snowy_beach",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:cold_river"
+            "target": "minecraft:snowy_plains",
+            "biome": "terralith:ashen_savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:deciduous_forest"
+            "target": "minecraft:snowy_slopes",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:eucalyptus_forest"
+            "target": "terralith:snowy_slopes",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:fen"
+            "target": "minecraft:snowy_taiga",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:flower_fields"
+            "target": "minecraft:sparse_jungle",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:frozen_pine_taiga"
+            "target": "minecraft:sunflower_plains",
+            "biome": "minecraft:desert"
+        },
+              {
+            "dimension": "minecraft:overworld",
+            "target": "minecraft:sunflower_plains",
+            "biome": "minecraft:stony_shore"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:frozen_tundra"
+            "target": "minecraft:swamp",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:fungal_fen"
+            "target": "minecraft:taiga",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:golden_boreal_taiga"
+            "target": "minecraft:windswept_forest",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:grassland"
+            "target": "minecraft:windswept_gravelly_hills",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:gravel_beach"
+            "target": "minecraft:windswept_hills",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:highland_fields"
+            "target": "terralith:alpha_islands",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:icy_heights"
+            "target": "terralith:alpha_islands_winter",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:magnolia_woodland"
+            "target": "terralith:alpine_grove",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:maple_forest"
+            "target": "terralith:alpine_highlands",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:marsh"
+            "target": "terralith:amethyst_canyon",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:mauve_hills"
+            "target": "terralith:amethyst_rainforest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:mountains"
+            "target": "terralith:birch_taiga",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:muddy_river"
+            "target": "terralith:blooming_plateau",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:old_growth_bayou"
+            "target": "terralith:blooming_valley",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:orchard"
+            "target": "terralith:brushland",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:pine_slopes"
+            "target": "terralith:caldera",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:pine_taiga"
+            "target": "terralith:cloud_forest",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:poppy_fields"
+            "target": "terralith:cold_shrubland",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:prairie"
+            "target": "terralith:emerald_peaks",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:pumpkin_fields"
+            "target": "terralith:forested_highlands",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:rainforest"
+            "target": "terralith:frozen_cliffs",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:redwoods"
+            "target": "terralith:frozen_cliffs",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:rocky_meadow"
+            "target": "terralith:glacial_chasm",
+            "biome": "terralith:volcanic_peaks"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:rocky_reef"
+            "target": "terralith:gravel_beach",
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:shrubland"
+            "target": "terralith:gravel_desert",
+            "biome": "terralith:ashen_savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:silver_birch_forest"
+            "target": "terralith:haze_mountain",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:sparse_rainforest"
+            "target": "terralith:highlands",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:sparse_redwoods"
+            "target": "terralith:ice_marsh",
+            "biome": "terralith:ashen_savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:spires"
+            "target": "terralith:jungle_mountains",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:steppe"
+            "target": "terralith:lavender_forest",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:temperate_grove"
+            "target": "terralith:lavender_valley",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:towering_cliffs"
+            "target": "terralith:lush_valley",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:tropical_river"
+            "target": "terralith:mirage_isles",
+            "biome": "minecraft:savanna"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:tropics"
+            "target": "terralith:moonlight_grove",
+            "biome": "terralith:volcanic_crater"
         },
         {
             "dimension": "minecraft:overworld",
-            "biome": "regions_unexplored:willow_forest"
+            "target": "terralith:moonlight_valley",
+            "biome": "terralith:volcanic_crater"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:mountain_steppe",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:orchid_swamp",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:rocky_jungle",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:rocky_mountains",
+            "biome": "terralith:volcanic_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:rocky_shrubland",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:sakura_grove",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:sakura_valley",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:scarlet_mountains",
+            "biome": "terralith:volcanic_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:shield",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:shield_clearing",
+            "biome": "terralith:ashen_savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:shrubland",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:siberian_grove",
+            "biome": "terralith:volcanic_crater"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:siberian_taiga",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:skylands_spring",
+            "biome": "terralith:skylands_autumn"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:skylands_summer",
+            "biome": "terralith:skylands_autumn"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:skylands_winter",
+            "biome": "terralith:skylands_autumn"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:snowy_badlands",
+            "biome": "terralith:volcanic_crater"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:snowy_badlands",
+            "biome": "terralith:volcanic_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:snowy_cherry_grove",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:snowy_maple_forest",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:snowy_shield",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:steppe",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:stony_spires",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:temperate_highlands",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:tropical_jungle",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:valley_clearing",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:white_cliffs",
+            "biome": "terralith:volcanic_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:windswept_spires",
+            "biome": "minecraft:savanna"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:wintry_forest",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:wintry_lowlands",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:yellowstone",
+            "biome": "regions_unexplored:ashen_woodland"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:yosemite_cliffs",
+            "biome": "terralith:volcanic_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
+            "target": "terralith:yosemite_lowlands",
+            "biome": "terralith:volcanic_crater"
         }
     ]
 }

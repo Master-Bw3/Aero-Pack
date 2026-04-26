@@ -53,16 +53,24 @@ file = "config/iceandfire/iaf-common.json"
 hash = "91c1967e9c9f99ca48ea2b5865bc3ae6a894db3589a650812f9f8b0f72057a97"
 
 [[files]]
+file = "config/naturaltemperature-common.toml"
+hash = "84975bf052150aa68e447be9d51fde749b23874c8e17f121644622fad1a35132"
+
+[[files]]
 file = "config/paraglider-server.toml"
 hash = "921a4bb6791f4bdff317a84d0574ee3722de660543696e37864cb1231e160e14"
 
 [[files]]
 file = "config/regions_unexplored/common.toml"
-hash = "bfcdc7dfa04896a4df8b763114fd3be26cdb151bda5376398c01c6287003fd01"
+hash = "9a4da71ba094ebcfddfe3e5eb5794fea935c29214bbe86f0bcf2633eb55a693c"
 
 [[files]]
 file = "config/structurify.json"
 hash = "b7902434212497c03b545791a12af1492d63968d04cd749286e305a24ca092ea"
+
+[[files]]
+file = "config/terrestria/biome.json"
+hash = "959869cf02312460c11c7ad40b23349cd0c2da3c618bacce0c8c02797bf175d1"
 
 [[files]]
 file = "config/wover/cached.json"
@@ -78,7 +86,7 @@ hash = "cca432a261bebacbe40098a7c08597db7ece725b56cd5cc6ea3421f81116e3ea"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/biome_placement.json"
-hash = "2207c8c32884ed4c94fdb6e86c95bc1f026ec05c6489074602876e7fb0faf5c2"
+hash = "c48c0795225aec17c2a64ae77ef47697659ba15f388769e124026246e4ced601"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/recipe/leather.json"
@@ -265,11 +273,11 @@ file = "datapacks/pack/data/minecraft/recipe/shulker_box.json"
 hash = "f8a5a26e3056eb6fb06deeb3dbccfd88ae74900200c98c70b5966bbb7ec9d4de"
 
 [[files]]
-file = "datapacks/pack/data/minecraft/worldgen/noise_settings/large_biomes.json"
+file = "datapacks/pack/data/minecraft/worldgen-disabled/noise_settings/large_biomes.json"
 hash = "ef93a379326538a4043b1362961307a4293d2c85fc0de91d29842495cd97e26f"
 
 [[files]]
-file = "datapacks/pack/data/minecraft/worldgen/noise_settings/overworld.json"
+file = "datapacks/pack/data/minecraft/worldgen-disabled/noise_settings/overworld.json"
 hash = "870f29aea7fac94b9cbe7aefd08ae9bd7f22c708de7f7d1d79af1c3a648df2a2"
 
 [[files]]
@@ -307,6 +315,11 @@ hash = "01d50109f416233fc66de1895040f230a6daedfcf6b927216e4e0fda1d6e2474"
 [[files]]
 file = "global_packs/required_resources/computer-craft-recreated.pw.toml"
 hash = "4943024b441eb662a120dd35703f1ea96386125b19b62b29545e7963bbf6efa7"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/environmental-water.pw.toml"
+hash = "f059051e1a9667474078314c0872df4ad15359a64e33978dc16310afdd165c5b"
 metafile = true
 
 [[files]]
@@ -863,6 +876,11 @@ hash = "8af373c3df0a5561e90a600a7f02ee682805a2528605997bd4cf085914ba900a"
 metafile = true
 
 [[files]]
+file = "mods/natural-temperature.pw.toml"
+hash = "c788dd63fb699f1b21366de60a3fb68ea4e3bf76840eb5bfef8bdce6bd430e30"
+metafile = true
+
+[[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "2104f30f90dbd5ff5eae8295f71f47227c9b1c96b4b5bb2ae196cd67d11e138a"
 metafile = true
@@ -908,6 +926,11 @@ hash = "6476fceaeb70e56ecc5250dd0fe417920773a4e69ff29e11b9a1edb16f55d5f0"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "476e0255c6cafe5483294236d0431e3cc162222e7ad546a2f2271627e478dce0"
+metafile = true
+
+[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "f1e3ffb76a0bc1b78848c1dca7e6bad3d54d38c3c5445c0690dc1c9ba5582896"
 metafile = true
@@ -924,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
+hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
@@ -1023,8 +1046,18 @@ hash = "4b66583e13a915da1fd9241718f008ac601e834f549349684f79aee52b5d598d"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
@@ -1054,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "a0e335d1f72c93571ed78abaf7ae038ddc66e35ef8706f07b60f5eaee6ae1375"
+hash = "0e9c46604ece37415e4ef4c284761e3c7482aa0d4ce83ee8e700fea3c461bee7"
 metafile = true
 
 [[files]]

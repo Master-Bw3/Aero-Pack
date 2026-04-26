@@ -8,7 +8,7 @@
 	#Default: true
 	toggle_arid_mountains = true
 	#Default: true
-	toggle_ashen_woodland = false
+	toggle_ashen_woodland = true
 	#Default: true
 	toggle_autumnal_maple_forest = false
 	#Default: true
