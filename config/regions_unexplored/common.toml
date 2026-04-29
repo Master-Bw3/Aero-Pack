@@ -104,7 +104,7 @@
 	#Default: true
 	toggle_saguaro_desert = true
 	#Default: true
-	toggle_shrubland = true
+	toggle_shrubland = false
 	#Default: true
 	toggle_silver_birch_forest = false
 	#Default: true

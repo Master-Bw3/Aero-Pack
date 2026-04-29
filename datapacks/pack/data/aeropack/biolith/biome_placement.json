@@ -42,6 +42,11 @@
         },
         {
             "dimension": "minecraft:overworld",
+            "target": "terralith:red_oasis",
+            "biome": "minecraft:desert"
+        },
+        {
+            "dimension": "minecraft:overworld",
             "target": "minecraft:forest",
             "biome": "minecraft:savanna"
         },
@@ -102,6 +107,11 @@
         },
         {
             "dimension": "minecraft:overworld",
+            "target": "minecraft:jagged_peaks",
+            "biome": "terralith:volcanic_peaks"
+        },
+        {
+            "dimension": "minecraft:overworld",
             "target": "terralith:jagged_peaks",
             "biome": "terralith:volcanic_peaks"
         },
@@ -127,8 +137,13 @@
         },
         {
             "dimension": "minecraft:overworld",
+            "target": "minecraft:mushroom_fields",
+            "biome": "minecraft:pale_garden"
+        },
+        {
+            "dimension": "minecraft:overworld",
             "target": "minecraft:snowy_plains",
-            "biome": "terralith:ashen_savanna"
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
@@ -155,7 +170,7 @@
             "target": "minecraft:sunflower_plains",
             "biome": "minecraft:desert"
         },
-              {
+        {
             "dimension": "minecraft:overworld",
             "target": "minecraft:sunflower_plains",
             "biome": "minecraft:stony_shore"
@@ -237,6 +252,11 @@
         },
         {
             "dimension": "minecraft:overworld",
+            "target": "terralith:bryce_canyon",
+            "biome": "terralith:warped_mesa"
+        },
+        {
+            "dimension": "minecraft:overworld",
             "target": "terralith:caldera",
             "biome": "terralith:volcanic_crater"
         },
@@ -278,12 +298,12 @@
         {
             "dimension": "minecraft:overworld",
             "target": "terralith:gravel_beach",
-            "biome": "regions_unexplored:ashen_woodland"
+            "biome": "minecraft:beach"
         },
         {
             "dimension": "minecraft:overworld",
             "target": "terralith:gravel_desert",
-            "biome": "terralith:ashen_savanna"
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
@@ -298,7 +318,7 @@
         {
             "dimension": "minecraft:overworld",
             "target": "terralith:ice_marsh",
-            "biome": "terralith:ashen_savanna"
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",
@@ -383,7 +403,7 @@
         {
             "dimension": "minecraft:overworld",
             "target": "terralith:shield_clearing",
-            "biome": "terralith:ashen_savanna"
+            "biome": "regions_unexplored:ashen_woodland"
         },
         {
             "dimension": "minecraft:overworld",

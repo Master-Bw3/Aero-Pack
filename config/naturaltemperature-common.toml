@@ -43,20 +43,20 @@ wave_magnification = 2.0
 temperature_zone_1 = 0.4
 # Default: 8.0
 # Range: -1.0 ~ 8.0
-temperature_zone_2 = 0.8
+temperature_zone_2 = 1.0
 # Default: 1.0
 # Range: -1.0 ~ 8.0
-temperature_zone_3 = 0.8
+temperature_zone_3 = 2.0
 #(Range -1.0 , 1.0 ) These parameters are used to customize some of the modes, 1.0 are very hot zones, -1.0 are very cold zone. 8.0 will randomize the zone
 # Default: -1.0
 # Range: -1.0 ~ 8.0
-temperature_zone_4 = 0.8
+temperature_zone_4 = 2.0
 # Default: 8.0
 # Range: -1.0 ~ 8.0
-temperature_zone_5 = 0.8
+temperature_zone_5 = 2.0
 # Default: -1.0
 # Range: -1.0 ~ 8.0
-temperature_zone_6 = 0.8
+temperature_zone_6 = 2.0
 #(Range -1.0 , 1.0 ) These parameters are used to customize some of the modes, 1.0 are very humid zones, -1.0 are very dry zone. 8.0 will randomize the zone
 # Default: 8.0
 # Range: -1.0 ~ 8.0
@@ -79,13 +79,13 @@ humidity_zone_6 = 8.0
 #(Range 1.0 , 100.0 ) These are used to customize the coverage of the bands in modes 5 and 6. The sum does not necessarily have to be 100. I used real life references
 # Default: 17.0
 # Range: 1.0 ~ 100.0
-percentage_coverage_zone_1 = 20.0
+percentage_coverage_zone_1 = 30.0
 # Default: 24.0
 # Range: 1.0 ~ 100.0
-percentage_coverage_zone_2 = 80.0
+percentage_coverage_zone_2 = 30.0
 # Default: 13.0
 # Range: 1.0 ~ 100.0
-percentage_coverage_zone_3 = 1.0
+percentage_coverage_zone_3 = 30.0
 # Default: 10.0
 # Range: 1.0 ~ 100.0
 percentage_coverage_zone_4 = 1.0

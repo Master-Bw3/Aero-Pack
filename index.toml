@@ -54,7 +54,7 @@ hash = "91c1967e9c9f99ca48ea2b5865bc3ae6a894db3589a650812f9f8b0f72057a97"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "84975bf052150aa68e447be9d51fde749b23874c8e17f121644622fad1a35132"
+hash = "0f97f12d88fc51f149880212180241629f590c71ca4c040168d7bceee003ac02"
 
 [[files]]
 file = "config/paraglider-server.toml"
@@ -62,11 +62,11 @@ hash = "921a4bb6791f4bdff317a84d0574ee3722de660543696e37864cb1231e160e14"
 
 [[files]]
 file = "config/regions_unexplored/common.toml"
-hash = "9a4da71ba094ebcfddfe3e5eb5794fea935c29214bbe86f0bcf2633eb55a693c"
+hash = "564c490100988195372f259ba80bd2913bf48a0ff12f1c16c2d5be152466405f"
 
 [[files]]
 file = "config/structurify.json"
-hash = "b7902434212497c03b545791a12af1492d63968d04cd749286e305a24ca092ea"
+hash = "41f0959b7899e32aa68712b4c586e19f54bbb0c36d80c166a19dd66410a94e43"
 
 [[files]]
 file = "config/terrestria/biome.json"
@@ -86,7 +86,7 @@ hash = "cca432a261bebacbe40098a7c08597db7ece725b56cd5cc6ea3421f81116e3ea"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/biome_placement.json"
-hash = "c48c0795225aec17c2a64ae77ef47697659ba15f388769e124026246e4ced601"
+hash = "553eb8803071c05fb7bf98ba34c48d194af3ea020b8ab025e50b260e40c9835e"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/recipe/leather.json"
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/aero-pack-utils.pw.toml"
-hash = "aa7d828316aa0f9f928129465d06a5b2640a9bae6ccde0cd7aba54615bac9510"
+hash = "f53cbb1dcc0c8b8ffc103efa358bdb84957bca11068e90363f78110a428ac066"
 metafile = true
 
 [[files]]
@@ -433,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
+metafile = true
+
+[[files]]
+file = "mods/biome-cows.pw.toml"
+hash = "3175946900d4a6126639ec9124da6b9f4b00e6d8625b59eefeef1ceb3090f481"
 metafile = true
 
 [[files]]
@@ -546,18 +551,8 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
-file = "mods/create-pillager-arise.pw.toml"
-hash = "4ae60613f7eadc76b343631d6cb177ec9949ddf91a269e8756e39bb859dca4a0"
-metafile = true
-
-[[files]]
 file = "mods/create-ranged.pw.toml"
 hash = "d60a1f5dab3658ac74a957e02b60fac95db9a6f8ad79a214851b46abf05156e2"
-metafile = true
-
-[[files]]
-file = "mods/create-sky-village.pw.toml"
-hash = "2cba7a406a99b126f84452d0afcd5f5a55da7000818193bc8989c3711719bfdf"
 metafile = true
 
 [[files]]
@@ -583,11 +578,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
-metafile = true
-
-[[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "8e63fec28c22201636bd56f0170e9b85e26b558c4ec7215e068f53d3518dc5bb"
 metafile = true
 
 [[files]]
@@ -831,6 +821,11 @@ hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
 
 [[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "2fe01d8046db2246c6df01eedd1fbc7837c08cc6d3b2a9017107ade989e86a28"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
 metafile = true
@@ -876,11 +871,6 @@ hash = "8af373c3df0a5561e90a600a7f02ee682805a2528605997bd4cf085914ba900a"
 metafile = true
 
 [[files]]
-file = "mods/natural-temperature.pw.toml"
-hash = "c788dd63fb699f1b21366de60a3fb68ea4e3bf76840eb5bfef8bdce6bd430e30"
-metafile = true
-
-[[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "2104f30f90dbd5ff5eae8295f71f47227c9b1c96b4b5bb2ae196cd67d11e138a"
 metafile = true
@@ -921,8 +911,18 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/perfect-parity-pale-garden-awakens.pw.toml"
+hash = "d93de07bc449d190d178bab69574a527e64966937c2f200dd0f98021b2419dd4"
+metafile = true
+
+[[files]]
 file = "mods/pillager-caravans.pw.toml"
 hash = "6476fceaeb70e56ecc5250dd0fe417920773a4e69ff29e11b9a1edb16f55d5f0"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "3739d21435e3d341fd161b2a3c0af7a447a0abb14aac148dc5e5890929c72ee0"
 metafile = true
 
 [[files]]
@@ -1066,6 +1066,11 @@ hash = "0fb825812a8c1cd99e21d887225ecf6ff6f8ac8b53d289d933d3949978f91d3f"
 metafile = true
 
 [[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
+metafile = true
+
+[[files]]
 file = "mods/tiny-dragons.pw.toml"
 hash = "78e6f8fc2adf79cb9bf3c49655a9f8cbdae901cc1ad59bdb58d6fb0e0497bc58"
 metafile = true
@@ -1073,6 +1078,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
+metafile = true
+
+[[files]]
+file = "mods/trek.pw.toml"
+hash = "00afcbfc1b6771e8650e868dcdb6f0aac3a319b8de9bf363530ce7a62bd807fe"
 metafile = true
 
 [[files]]

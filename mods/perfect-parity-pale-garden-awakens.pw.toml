@@ -1,0 +1,13 @@
+name = "Perfect Parity Neo: Pale Garden Awakens"
+filename = "perfectparitypg-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rb523tfu/versions/gN5nJDLL/perfectparitypg-1.3.0.jar"
+hash-format = "sha512"
+hash = "5339ad1ed9a16238c37f0f56acc0db6242bef38358849e34b2be77f0f1fddf7012aed936ef7bd90a5ce45a4107e2d1e5ddc29f6cff2dcbc5a7ae00b509869baa"
+
+[update]
+[update.modrinth]
+mod-id = "Rb523tfu"
+version = "gN5nJDLL"

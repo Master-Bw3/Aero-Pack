@@ -1,0 +1,13 @@
+name = "Biome Cows"
+filename = "biome_cows_-2.2.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NFH3IgXC/versions/OYedaCZn/biome_cows_-2.2.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "a201cfb9ca45ce29f919bd446172f3b3731d9e360044e300a6036246f0d030e594008c881ffa8536fff70f66b1854f0f0c51c5881f02f2999725b5acb7651319"
+
+[update]
+[update.modrinth]
+mod-id = "NFH3IgXC"
+version = "OYedaCZn"
