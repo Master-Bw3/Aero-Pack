@@ -323,6 +323,82 @@ hash = "f059051e1a9667474078314c0872df4ad15359a64e33978dc16310afdd165c5b"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_bush.json"
+hash = "0c7e515a228f0c353b3a686506e8850a6bfeeed41308bc251ba3240b86afac8a"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_cactus.json"
+hash = "72b4cf9069582ca0fc17ab1a827ba56bc3b9614b19d75f898484d4960fc02b3f"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_flower.json"
+hash = "eac35d9f229315f30c502a567dcc06a22789d4893ef75ad261335466b77e3692"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_grass.json"
+hash = "d4ff345736fd6f99fecfaa212d393035f8019789ee2145f583b7526443142066"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_layer.json"
+hash = "2337c370cf053dc3243c39548bb5148816223bd1507b10e62820fc2ec0cf0fd8"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_layer2.json"
+hash = "6998da425c0022e06b249339bd25080cf23507aff6048de57b0d7a63c91657be"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_tall.json"
+hash = "8a19560a33367da05f140ba71dc57a1499dd92490348378873c798a0e055ec0f"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_tallcactus.json"
+hash = "22ccf9702317737f378cb98329bf2543dd69c8f0396c7f05fd497129784e4615"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/models/block/dead_bush_tallgrass.json"
+hash = "7e41040c996452d99ac8548ed4382d62f1f8fb8a8270843ba5c7cad323cc2cf0"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/cobblestone.png"
+hash = "eefe2d05d47558aafe224bfccd3faa35dd14019d0ba606982934891a9a3e8f1a"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_bush.png"
+hash = "24764bcd64e977d0f4abaf42569dab9c6cc2d6a18dfd4ba3408869319746a59e"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_cactus.png"
+hash = "d670ee2f6207e1f771da03508bae92f583c44e8f0f7fcf5f2426afdbcb4f8201"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_flower.png"
+hash = "8681dd551be0188af1e2b0b2f59cf795f3e0a3eebfc88a455f5cbad2259516c7"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_grass.png"
+hash = "8ef9b96e33b0fc28e3222d0ca0cc41ea910617ea3d42fc826d1a4bb659e4b648"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_tall.png"
+hash = "808a4487362b1053c1f2f4398cd3d4d9d81a12eff6a8a417c780e91f04cba180"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_tallcactus.png"
+hash = "9e32c6a03bef57b74a40f25b91a007ae35459ac6c4649e73c114466d18681a45"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/dead_bush_tallgrass.png"
+hash = "c0187c43ce54b294014a1e8da9c70bfa77e18d76a5a5e7f68e4330eb2ad963bf"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/block/sand.png"
+hash = "232d26d81307b9fcb0f84f5a49beac722b1d99395e6251f34e86724f48f267b3"
+
+[[files]]
+file = "global_packs/required_resources/pack/assets/minecraft/textures/environment/sun.png"
+hash = "7b706fa5ecb7144389dd49d9fa222ddeebef7ae0ab42a96c9eec24bc05e58d37"
+
+[[files]]
 file = "global_packs/required_resources/pack/assets/trickster/textures/gui/sprites/spell_slot/active_error.png"
 hash = "39f3e2b1c46d2c8e2daf01cc0edc5d0d41e9dddb42e60ade51c51133dff0cfe0"
 
