@@ -1,0 +1,112 @@
+[beach]
+biomes = ["minecraft:stony_shore", "terralith:gravel_beach"]
+replacements = ["minecraft:beach", "regions_unexplored:grassy_beach"]
+
+[peaks]
+biomes = [
+    "minecraft:jagged_peaks",
+    "minecraft:stony_peaks",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+    "terralith:blooming_valley",
+    "terralith:caldera",
+    "terralith:jungle_mountains",
+    "terralith:lavender_valley",
+    "terralith:haze_mountain",
+    "terralith:lush_valley",
+    "terralith:moonlight_valley",
+    "terralith:sakura_valley",
+    "terralith:scarlet_mountains",
+    "terralith:stony_spires",
+]
+replacements = [
+    "terralith:volcanic_peaks",
+    "terralith:desert_canyon",
+    "regions_unexplored:arid_mountains",
+    "terralith:painted_mountains",
+]
+
+[plateau]
+biomes = [
+    "minecraft:badlands",
+    "minecraft:cherry_grove",
+    "minecraft:meadow",
+    "minecraft:grove",
+    "minecraft:savanna_plateau",
+    "minecraft:wooded_badlands",
+    "terralith:highlands",
+    "terralith:alpine_grove",
+    "terralith:alpine_highlands",
+    "terralith:amethyst_canyon",
+    "terralith:arid_highlands",
+    "terralith:blooming_plateau",
+    "terralith:bryce_canyon",
+    "terralith:forested_highlands",
+    "terralith:moonlight_grove",
+    "terralith:sakura_grove",
+    "terralith:temperate_highlands",
+]
+replacements = [
+    "terralith:warped_mesa",
+    "terralith:white_mesa",
+]
+
+[flat]
+biomes = [
+    "minecraft:bamboo_jungle",
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:desert",
+    "minecraft:mangrove_swamp",
+    "minecraft:old_growth_birch_forest",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:forest",
+    "minecraft:jungle",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:sparse_jungle",
+    "minecraft:sunflower_plains",
+    "minecraft:swamp",
+    "minecraft:taiga",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_savanna",
+    "terralith:amethyst_rainforest",
+    "terralith:birch_taiga",
+    "terralith:brushland",
+    "terralith:cloud_forest",
+    "terralith:desert_oasis",
+    "terralith:desert_spires",
+    "terralith:emerald_peaks",
+    "terralith:gravel_desert",
+    "terralith:hot_shrubland",
+    "terralith:lavender_forest",
+    "terralith:lush_desert",
+    "terralith:mirage_isles",
+    "terralith:orchid_swamp",
+    "terralith:red_oasis",
+    "terralith:rocky_jungle",
+    "terralith:rocky_mountains",
+    "terralith:rocky_shrubland",
+    "terralith:sandstone_valley",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:shield",
+    "terralith:shield_clearing",
+    "terralith:shrubland",
+    "terralith:steppe",
+    "terralith:tropical_jungle",
+    "terralith:valley_clearing",
+]
+replacements = [
+    "terralith:ancient_sands",
+    "terralith:ashen_savanna",
+    "minecraft:desert",
+    "regions_unexplored:ashen_woodland",
+    "regions_unexplored:saguaro_desert",
+    "terrestria:dunes",
+]
+
+[special]
+biomes = ["minecraft:mushroom_fields", "terralith:alpha_islands"]
+replacements = ["minecraft:pale_garden"]

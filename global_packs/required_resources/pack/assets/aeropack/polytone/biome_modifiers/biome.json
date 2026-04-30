@@ -1,0 +1,28 @@
+{
+    "targets": [
+        "minecraft:deep_frozen_ocean",
+        "minecraft:frozen_ocean",
+        "minecraft:deep_cold_ocean",
+        "minecraft:cold_ocean",
+        "minecraft:deep_ocean",
+        "minecraft:ocean",
+        "minecraft:deep_lukewarm_ocean",
+        "minecraft:lukewarm_ocean",
+        "minecraft:warm_ocean",
+        "minecraft:river",
+        "terralith:warm_river",
+        "terralith:deep_warm_ocean",
+        "minecraft:desert",
+        "minecraft:beach",
+        "regions_unexplored:grassy_beach",
+        "terralith:ashen_savanna",
+        "terralith:fractured_savanna",
+        "regions_unexplored:saguaro_desert",
+        "terrestria:dunes",
+        "terralith:desert_canyon",
+        "regions_unexplored:arid_mountains",
+        "terralith:painted_mountains"
+    ],
+    "sky_color": 8746857,
+    "fog_color": 12295069
+}

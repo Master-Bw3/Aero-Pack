@@ -1,0 +1,16 @@
+{
+    "type": "lithostitched:wrap_density_function",
+    "priority": 1000,
+    "target_function": "minecraft:overworld/temperature",
+    "wrapper_function": {
+        "type": "minecraft:add",
+        "argument1": 0.9,
+        "argument2": {
+            "type": "minecraft:mul",
+            "argument1": 0.1,
+            "argument2": {
+                "type": "lithostitched:wrapped_marker"
+            }
+        }
+    }
+}

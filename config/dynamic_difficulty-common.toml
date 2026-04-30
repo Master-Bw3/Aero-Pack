@@ -96,7 +96,7 @@
 	#Entities that cannot level up
 	#Supports wildcards: use 'modid:*' to blacklist all entities from a mod
 	#Examples: ["minecraft:zombie", "minecraft:skeleton", "cataclysm:*"]
-	blacklisted_entities = ["rpg_companions_tiny_dragons:*", "ecologics:*", "netherdepthsupgrade:*", "occultism:*familiar"]
+	blacklisted_entities = ["ecologics:*", "netherdepthsupgrade:*", "biome_cows_:*", "aether:aerwhale", "aether:moa"]
 	#If not empty, only these entities can level upocc
 	#Supports wildcards: use 'modid:*' to whitelist all entities from a mod
 	#Examples: ["minecraft:zombie", "cataclysm:*"]

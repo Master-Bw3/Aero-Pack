@@ -14,7 +14,7 @@
 	#Default: true
 	toggle_bamboo_forest = false
 	#Default: true
-	toggle_baobab_savanna = true
+	toggle_baobab_savanna = false
 	#Default: true
 	toggle_barley_fields = false
 	#Default: true
@@ -36,7 +36,7 @@
 	#Default: true
 	toggle_deciduous_forest = false
 	#Default: true
-	toggle_dry_bushland = true
+	toggle_dry_bushland = false
 	#Default: true
 	toggle_eucalyptus_forest = false
 	#Default: true
@@ -54,7 +54,7 @@
 	#Default: true
 	toggle_grassland = false
 	#Default: true
-	toggle_grassy_beach = false
+	toggle_grassy_beach = true
 	#Default: true
 	toggle_gravel_beach = false
 	#Default: true
@@ -64,7 +64,7 @@
 	#Default: true
 	toggle_icy_heights = false
 	#Default: true
-	toggle_joshua_desert = true
+	toggle_joshua_desert = false
 	#Default: true
 	toggle_magnolia_woodland = false
 	#Default: true
@@ -84,7 +84,7 @@
 	#Default: true
 	toggle_orchard = false
 	#Default: true
-	toggle_outback = true
+	toggle_outback = false
 	#Default: true
 	toggle_pine_slopes = false
 	#Default: true

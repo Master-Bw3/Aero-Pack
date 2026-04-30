@@ -1,0 +1,1804 @@
+{
+  "replacements": [
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:stony_shore",
+      "biome": "minecraft:beach"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:stony_shore",
+      "biome": "regions_unexplored:grassy_beach"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_beach",
+      "biome": "minecraft:beach"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_beach",
+      "biome": "regions_unexplored:grassy_beach"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jagged_peaks",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jagged_peaks",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jagged_peaks",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jagged_peaks",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:stony_peaks",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:stony_peaks",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:stony_peaks",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:stony_peaks",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_gravelly_hills",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_gravelly_hills",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_gravelly_hills",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_gravelly_hills",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_hills",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_hills",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_hills",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_hills",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:blooming_valley",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:blooming_valley",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:blooming_valley",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:blooming_valley",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:caldera",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:caldera",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:caldera",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:caldera",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:jungle_mountains",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:jungle_mountains",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:jungle_mountains",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:jungle_mountains",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_valley",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_valley",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_valley",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_valley",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:haze_mountain",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:haze_mountain",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:haze_mountain",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:haze_mountain",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_valley",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_valley",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_valley",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_valley",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:moonlight_valley",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:moonlight_valley",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:moonlight_valley",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:moonlight_valley",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sakura_valley",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sakura_valley",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sakura_valley",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sakura_valley",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:scarlet_mountains",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:scarlet_mountains",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:scarlet_mountains",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:scarlet_mountains",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:stony_spires",
+      "biome": "terralith:volcanic_peaks"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:stony_spires",
+      "biome": "terralith:desert_canyon"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:stony_spires",
+      "biome": "regions_unexplored:arid_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:stony_spires",
+      "biome": "terralith:painted_mountains"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:badlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:badlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:cherry_grove",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:cherry_grove",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:meadow",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:meadow",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:grove",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:grove",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna_plateau",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna_plateau",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:wooded_badlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:wooded_badlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:highlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:highlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:alpine_grove",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:alpine_grove",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:alpine_highlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:alpine_highlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_canyon",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_canyon",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:arid_highlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:arid_highlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:blooming_plateau",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:blooming_plateau",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:bryce_canyon",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:bryce_canyon",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:forested_highlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:forested_highlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:moonlight_grove",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:moonlight_grove",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sakura_grove",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sakura_grove",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:temperate_highlands",
+      "biome": "terralith:warped_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:temperate_highlands",
+      "biome": "terralith:white_mesa"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:bamboo_jungle",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:bamboo_jungle",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:bamboo_jungle",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:bamboo_jungle",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:bamboo_jungle",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:bamboo_jungle",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:birch_forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:birch_forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:birch_forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:birch_forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:birch_forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:birch_forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:dark_forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:dark_forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:dark_forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:dark_forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:dark_forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:dark_forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:desert",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:desert",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:desert",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:desert",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:desert",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:desert",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mangrove_swamp",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mangrove_swamp",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mangrove_swamp",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mangrove_swamp",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mangrove_swamp",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mangrove_swamp",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_birch_forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_birch_forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_birch_forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_birch_forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_birch_forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_birch_forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_pine_taiga",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_pine_taiga",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_pine_taiga",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_pine_taiga",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_pine_taiga",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_pine_taiga",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jungle",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jungle",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jungle",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jungle",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jungle",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:jungle",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_spruce_taiga",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_spruce_taiga",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_spruce_taiga",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_spruce_taiga",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_spruce_taiga",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:old_growth_spruce_taiga",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:plains",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:plains",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:plains",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:plains",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:plains",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:plains",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:savanna",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sparse_jungle",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sparse_jungle",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sparse_jungle",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sparse_jungle",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sparse_jungle",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sparse_jungle",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sunflower_plains",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sunflower_plains",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sunflower_plains",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sunflower_plains",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sunflower_plains",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:sunflower_plains",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:swamp",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:swamp",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:swamp",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:swamp",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:swamp",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:swamp",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:taiga",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:taiga",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:taiga",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:taiga",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:taiga",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:taiga",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_savanna",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_savanna",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_savanna",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_savanna",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_savanna",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:windswept_savanna",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_rainforest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_rainforest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_rainforest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_rainforest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_rainforest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:amethyst_rainforest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:birch_taiga",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:birch_taiga",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:birch_taiga",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:birch_taiga",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:birch_taiga",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:birch_taiga",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:brushland",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:brushland",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:brushland",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:brushland",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:brushland",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:brushland",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:cloud_forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:cloud_forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:cloud_forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:cloud_forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:cloud_forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:cloud_forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_oasis",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_oasis",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_oasis",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_oasis",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_oasis",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_oasis",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_spires",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_spires",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_spires",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_spires",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_spires",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:desert_spires",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:emerald_peaks",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:emerald_peaks",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:emerald_peaks",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:emerald_peaks",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:emerald_peaks",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:emerald_peaks",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_desert",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_desert",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_desert",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_desert",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_desert",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:gravel_desert",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:hot_shrubland",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:hot_shrubland",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:hot_shrubland",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:hot_shrubland",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:hot_shrubland",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:hot_shrubland",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_forest",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_forest",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_forest",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_forest",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_forest",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lavender_forest",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_desert",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_desert",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_desert",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_desert",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_desert",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:lush_desert",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:mirage_isles",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:mirage_isles",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:mirage_isles",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:mirage_isles",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:mirage_isles",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:mirage_isles",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:orchid_swamp",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:orchid_swamp",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:orchid_swamp",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:orchid_swamp",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:orchid_swamp",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:orchid_swamp",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:red_oasis",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:red_oasis",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:red_oasis",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:red_oasis",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:red_oasis",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:red_oasis",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_jungle",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_jungle",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_jungle",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_jungle",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_jungle",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_jungle",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_mountains",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_mountains",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_mountains",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_mountains",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_mountains",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_mountains",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_shrubland",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_shrubland",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_shrubland",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_shrubland",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_shrubland",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:rocky_shrubland",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sandstone_valley",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sandstone_valley",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sandstone_valley",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sandstone_valley",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sandstone_valley",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:sandstone_valley",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_badlands",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_badlands",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_badlands",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_badlands",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_badlands",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_badlands",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_slopes",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_slopes",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_slopes",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_slopes",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_slopes",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:savanna_slopes",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield_clearing",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield_clearing",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield_clearing",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield_clearing",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield_clearing",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shield_clearing",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shrubland",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shrubland",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shrubland",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shrubland",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shrubland",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:shrubland",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:steppe",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:steppe",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:steppe",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:steppe",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:steppe",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:steppe",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:tropical_jungle",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:tropical_jungle",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:tropical_jungle",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:tropical_jungle",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:tropical_jungle",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:tropical_jungle",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:valley_clearing",
+      "biome": "terralith:ancient_sands"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:valley_clearing",
+      "biome": "terralith:ashen_savanna"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:valley_clearing",
+      "biome": "minecraft:desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:valley_clearing",
+      "biome": "regions_unexplored:ashen_woodland"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:valley_clearing",
+      "biome": "regions_unexplored:saguaro_desert"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:valley_clearing",
+      "biome": "terrestria:dunes"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "minecraft:mushroom_fields",
+      "biome": "minecraft:pale_garden"
+    },
+    {
+      "dimension": "minecraft:overworld",
+      "target": "terralith:alpha_islands",
+      "biome": "minecraft:pale_garden"
+    }
+  ]
+}
