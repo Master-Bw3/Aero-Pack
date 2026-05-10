@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/pack/assets/aeropack/polytone/biome_modifiers/biome.json"
-hash = "d129fa7f2394de0522bca1d8f2364411411314483db13bea187d0332b6078caf"
+hash = "877aa67d5e295d0e31c3961463279d1d6a56b47ba295ab780821e23f66bd519b"
 
 [[files]]
 file = "global_packs/required_resources/pack/assets/aeropack/polytone/biome_modifiers/biome_water.json"
