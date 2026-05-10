@@ -21,7 +21,9 @@
         "terrestria:dunes",
         "terralith:desert_canyon",
         "regions_unexplored:arid_mountains",
-        "terralith:painted_mountains"
+        "terralith:painted_mountains",
+        "terralith:granite_cliffs",
+        "terrestria:canyon"
     ],
     "sky_color": 8746857,
     "fog_color": 12295069

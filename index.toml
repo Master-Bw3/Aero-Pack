@@ -30,7 +30,7 @@ hash = "55acc3f9efe75bbcbfbbb8e79976e723dea70691c11784ae3b472d62f70a9de5"
 
 [[files]]
 file = "config/dynamic_difficulty-common.toml"
-hash = "c716662bd00b1725fe1a90837c3c3e3d92bd4f05f6ecbb7108eca6f579c6f961"
+hash = "ab1e1be91baf7b77c294a0bfd4ebd4f86b034628e3a5f69dacb20f30bffef467"
 
 [[files]]
 file = "config/experimentalist.json"
@@ -86,7 +86,7 @@ hash = "cca432a261bebacbe40098a7c08597db7ece725b56cd5cc6ea3421f81116e3ea"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/biome_placement.json"
-hash = "0a101c0ac07d26bd6520c0e33c4fe4387c432761ae1354be971689a6ce248d7b"
+hash = "d4a56f838d4f73e724958666fe7d965ef7316cb60ce9d3f59f2d18ae9faa809f"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/biomes.py"
@@ -94,11 +94,11 @@ hash = "abd2a2d5ba9f991ef0c4fb73874b97b5cf3a7b362dcace4471f0cb24035bfb86"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/biomes.toml"
-hash = "94403300642b5e33048b3ae1a498739d8f3c22ef3eb21e71ec30f1ea54e1d61f"
+hash = "20fe0be5c783bbeb48af01ac64046010a647c44bbb381fb839cd16b07538af3c"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/replacements.json"
-hash = "75a4de3975de650b848963cd977313ad8fd3d0c411891062ec85e3a6fc7c9a2d"
+hash = "d4a56f838d4f73e724958666fe7d965ef7316cb60ce9d3f59f2d18ae9faa809f"
 
 [[files]]
 file = "datapacks/pack/data/aeropack/biolith/surface_generation.json-disabled"
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/pack/assets/aeropack/polytone/biome_modifiers/biome.json"
-hash = "33f28c846be6b05ed6d3bed76c324e1c62040c442dd48fbd06ead709ddcfab92"
+hash = "d129fa7f2394de0522bca1d8f2364411411314483db13bea187d0332b6078caf"
 
 [[files]]
 file = "global_packs/required_resources/pack/assets/aeropack/polytone/biome_modifiers/biome_water.json"

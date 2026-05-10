@@ -1,6 +1,6 @@
 [beach]
 biomes = ["minecraft:stony_shore", "terralith:gravel_beach"]
-replacements = ["minecraft:beach", "regions_unexplored:grassy_beach"]
+replacements = ["regions_unexplored:grassy_beach"]
 
 [peaks]
 biomes = [
@@ -14,17 +14,13 @@ biomes = [
     "terralith:lavender_valley",
     "terralith:haze_mountain",
     "terralith:lush_valley",
+    "terralith:painted_mountains",
     "terralith:moonlight_valley",
     "terralith:sakura_valley",
     "terralith:scarlet_mountains",
     "terralith:stony_spires",
 ]
-replacements = [
-    "terralith:volcanic_peaks",
-    "terralith:desert_canyon",
-    "regions_unexplored:arid_mountains",
-    "terralith:painted_mountains",
-]
+replacements = ["regions_unexplored:arid_mountains"]
 
 [plateau]
 biomes = [
@@ -46,17 +42,37 @@ biomes = [
     "terralith:sakura_grove",
     "terralith:temperate_highlands",
 ]
-replacements = [
-    "terralith:warped_mesa",
-    "terralith:white_mesa",
-]
+replacements = ["terralith:warped_mesa"]
 
-[flat]
+[flat1]
 biomes = [
+    "terralith:red_oasis",
+    "terralith:mirage_isles",
+    "terralith:orchid_swamp",
+    "terralith:rocky_jungle",
+    "terralith:rocky_mountains",
+    "terralith:rocky_shrubland",
+    "terralith:sandstone_valley",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:shield",
+    "terralith:shield_clearing",
+    "terralith:shrubland",
+    "terralith:steppe",
+    "terralith:tropical_jungle",
+    "terralith:valley_clearing",
+    "terralith:volcanic_crater",
+    "terralith:volcanic_peaks",
+    "terralith:warm_river",
+]
+replacements = ["terralith:ashen_savanna"]
+
+[flat2]
+biomes = [
+    "terralith:desert_spires",
     "minecraft:bamboo_jungle",
     "minecraft:birch_forest",
     "minecraft:dark_forest",
-    "minecraft:desert",
     "minecraft:mangrove_swamp",
     "minecraft:old_growth_birch_forest",
     "minecraft:old_growth_pine_taiga",
@@ -75,37 +91,17 @@ biomes = [
     "terralith:birch_taiga",
     "terralith:brushland",
     "terralith:cloud_forest",
-    "terralith:desert_oasis",
-    "terralith:desert_spires",
     "terralith:emerald_peaks",
     "terralith:gravel_desert",
     "terralith:hot_shrubland",
     "terralith:lavender_forest",
-    "terralith:lush_desert",
-    "terralith:mirage_isles",
-    "terralith:orchid_swamp",
-    "terralith:red_oasis",
-    "terralith:rocky_jungle",
-    "terralith:rocky_mountains",
-    "terralith:rocky_shrubland",
-    "terralith:sandstone_valley",
-    "terralith:savanna_badlands",
-    "terralith:savanna_slopes",
-    "terralith:shield",
-    "terralith:shield_clearing",
-    "terralith:shrubland",
-    "terralith:steppe",
-    "terralith:tropical_jungle",
-    "terralith:valley_clearing",
 ]
-replacements = [
-    "terralith:ancient_sands",
-    "terralith:ashen_savanna",
-    "minecraft:desert",
-    "regions_unexplored:ashen_woodland",
-    "regions_unexplored:saguaro_desert",
-    "terrestria:dunes",
-]
+replacements = ["regions_unexplored:ashen_woodland"]
+
+[flat3]
+biomes = ["terralith:desert_oasis", "terralith:lush_desert"]
+replacements = ["terralith:ancient_sands"]
+
 
 [special]
 biomes = ["minecraft:mushroom_fields", "terralith:alpha_islands"]
